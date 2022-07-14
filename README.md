@@ -1,5 +1,5 @@
 
-Software manual tester course @Informal School for IT
+Software manual tester course @Informal School for IT (Jun-Jul 2022)
 
 Manual and automated testing for e-commerce website https://www.fashiondays.ro/
 
