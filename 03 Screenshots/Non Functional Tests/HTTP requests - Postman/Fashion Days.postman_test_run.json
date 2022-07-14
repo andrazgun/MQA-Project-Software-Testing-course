@@ -1,0 +1,178 @@
+{
+	"id": "45081716-5924-42df-bb7e-f17941cab3ba",
+	"name": "Fashion Days",
+	"timestamp": "2022-07-06T07:28:41.824Z",
+	"collection_id": "21519272-fdf7290d-9ec0-4e92-ad96-c986aebea731",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 10,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "a7c7fed3-787a-4cf3-900e-8606a61da9a2",
+			"name": "Homepage",
+			"url": "https://www.fashiondays.ro/",
+			"time": 54,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is present": true,
+				"Response time is less than 200ms": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is present": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				54
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Response time is less than 200ms": true
+				}
+			]
+		},
+		{
+			"id": "27634675-5231-4e78-b673-7f0cf4a84894",
+			"name": "Barbati",
+			"url": "https://www.fashiondays.ro/t/barbati/",
+			"time": 52,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is present": true,
+				"Response time is less than 200ms": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Content-Type is present": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				52
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Response time is less than 200ms": true
+				}
+			]
+		},
+		{
+			"id": "58e5d9ba-1b56-4f0e-a06d-fc365d664270",
+			"name": "Barbati imbracaminte",
+			"url": "https://www.fashiondays.ro/g/barbati-/imbracaminte",
+			"time": 32,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response time is less than 200ms": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				32
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				}
+			]
+		},
+		{
+			"id": "f2e1c48b-5d8c-4c29-8f17-036691a35769",
+			"name": "Tricou",
+			"url": "https://www.fashiondays.ro/p/tricou-cu-decolteu-la-baza-gatului-si-imprimeu-logo-supradimensionat-barbati-u-s-polo-assn-p4976211-2/",
+			"time": 36,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Response time is less than 200ms": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 1,
+					"fail": 0
+				},
+				"Response time is less than 200ms": {
+					"pass": 1,
+					"fail": 0
+				}
+			},
+			"times": [
+				36
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Response time is less than 200ms": true
+				}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 174,
+	"collection": {
+		"requests": [
+			{
+				"id": "a7c7fed3-787a-4cf3-900e-8606a61da9a2",
+				"method": "GET"
+			},
+			{
+				"id": "27634675-5231-4e78-b673-7f0cf4a84894",
+				"method": "GET"
+			},
+			{
+				"id": "58e5d9ba-1b56-4f0e-a06d-fc365d664270",
+				"method": "GET"
+			},
+			{
+				"id": "f2e1c48b-5d8c-4c29-8f17-036691a35769",
+				"method": "GET"
+			}
+		]
+	}
+}
