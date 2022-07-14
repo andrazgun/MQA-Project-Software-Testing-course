@@ -12,4 +12,4 @@ For the final project at the end of the class course, the e-commerce website htt
 - Screenshots - Non functional tests
 - Bugs
 - Test Report
-*Bonus* Jmeter HTML Report
+- Jmeter HTML Report
