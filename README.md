@@ -9,6 +9,6 @@ For the final project at the end of the class course, the e-commerce website htt
 - Presentation
 - Mind map
 - Test suite and Test Cases
-- Screenshots
+- Screenshots - Non functional tests
 - Bugs
 - Test Report
