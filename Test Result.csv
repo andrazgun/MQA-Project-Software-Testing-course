@@ -1,0 +1,901 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1657797920868,758,homepage,200,OK,Fashion Days 1-4,text,true,,234165,242,6,6,https://www.fashiondays.ro/,317,0,299
+1657797920868,317,homepage-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,536,119,6,6,https://fashiondays.ro/,317,0,299
+1657797921189,437,homepage-1,200,OK,Fashion Days 1-4,text,true,,233629,123,6,6,https://www.fashiondays.ro/,198,0,79
+1657797921162,480,homepage,200,OK,Fashion Days 1-5,text,true,,234179,242,6,6,https://www.fashiondays.ro/,59,0,43
+1657797921162,59,homepage-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,535,119,6,6,https://fashiondays.ro/,59,0,43
+1657797921222,420,homepage-1,200,OK,Fashion Days 1-5,text,true,,233644,123,6,6,https://www.fashiondays.ro/,180,0,49
+1657797920570,1063,homepage,200,OK,Fashion Days 1-3,text,false,"The operation lasted too long: It took 1,063 milliseconds, but should not have lasted longer than 1,000 milliseconds.",234172,242,6,6,https://www.fashiondays.ro/,615,0,597
+1657797920570,615,homepage-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,536,119,6,6,https://fashiondays.ro/,615,0,597
+1657797921189,444,homepage-1,200,OK,Fashion Days 1-3,text,true,,233636,123,6,6,https://www.fashiondays.ro/,185,0,71
+1657797920073,1572,homepage,200,OK,Fashion Days 1-1,text,false,"The operation lasted too long: It took 1,572 milliseconds, but should not have lasted longer than 1,000 milliseconds.",234167,242,6,6,https://www.fashiondays.ro/,1101,0,1083
+1657797920073,1102,homepage-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,536,119,6,6,https://fashiondays.ro/,1101,0,1083
+1657797921189,456,homepage-1,200,OK,Fashion Days 1-1,text,true,,233631,123,6,6,https://www.fashiondays.ro/,212,0,83
+1657797920275,1373,homepage,200,OK,Fashion Days 1-2,text,false,"The operation lasted too long: It took 1,373 milliseconds, but should not have lasted longer than 1,000 milliseconds.",234158,242,6,6,https://www.fashiondays.ro/,910,0,892
+1657797920275,910,homepage-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,536,119,6,6,https://fashiondays.ro/,910,0,892
+1657797921189,459,homepage-1,200,OK,Fashion Days 1-2,text,true,,233622,123,6,6,https://www.fashiondays.ro/,199,0,79
+1657797921651,245,cart,200,OK,Fashion Days 1-2,text,true,,158217,316,7,7,https://www.fashiondays.ro/cart/,11,0,0
+1657797921651,11,cart-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,501,124,7,7,https://fashiondays.ro/cart/,11,0,0
+1657797921662,234,cart-1,200,OK,Fashion Days 1-2,text,true,,157716,192,7,7,https://www.fashiondays.ro/cart/,115,0,0
+1657797921649,266,cart,200,OK,Fashion Days 1-3,text,true,,158216,316,7,7,https://www.fashiondays.ro/cart/,6,0,0
+1657797921649,6,cart-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,501,124,7,7,https://fashiondays.ro/cart/,6,0,0
+1657797921655,260,cart-1,200,OK,Fashion Days 1-3,text,true,,157715,192,7,7,https://www.fashiondays.ro/cart/,155,0,0
+1657797921644,312,cart,200,OK,Fashion Days 1-5,text,true,,158218,316,7,7,https://www.fashiondays.ro/cart/,9,0,0
+1657797921644,10,cart-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,503,124,7,7,https://fashiondays.ro/cart/,9,0,0
+1657797921654,302,cart-1,200,OK,Fashion Days 1-5,text,true,,157715,192,7,7,https://www.fashiondays.ro/cart/,181,0,0
+1657797921647,314,cart,200,OK,Fashion Days 1-1,text,true,,158203,316,7,7,https://www.fashiondays.ro/cart/,7,0,0
+1657797921647,7,cart-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,501,124,7,7,https://fashiondays.ro/cart/,7,0,0
+1657797921655,306,cart-1,200,OK,Fashion Days 1-1,text,true,,157702,192,7,7,https://www.fashiondays.ro/cart/,216,0,0
+1657797921641,330,cart,200,OK,Fashion Days 1-4,text,true,,158202,316,7,7,https://www.fashiondays.ro/cart/,11,0,0
+1657797921641,11,cart-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,503,124,7,7,https://fashiondays.ro/cart/,11,0,0
+1657797921653,318,cart-1,200,OK,Fashion Days 1-4,text,true,,157699,192,7,7,https://www.fashiondays.ro/cart/,264,0,0
+1657797921478,553,homepage,200,OK,Fashion Days 1-6,text,true,,234178,242,7,7,https://www.fashiondays.ro/,203,0,197
+1657797921478,203,homepage-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,536,119,7,7,https://fashiondays.ro/,203,0,197
+1657797921682,349,homepage-1,200,OK,Fashion Days 1-6,text,true,,233642,123,7,7,https://www.fashiondays.ro/,217,0,41
+1657797921897,247,wishlist,200,OK,Fashion Days 1-2,text,true,,156525,322,8,8,https://www.fashiondays.ro/wishlist,66,0,0
+1657797921897,66,wishlist-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,543,127,8,8,https://fashiondays.ro/wishlist,66,0,0
+1657797921963,181,wishlist-1,200,OK,Fashion Days 1-2,text,true,,155982,195,8,8,https://www.fashiondays.ro/wishlist,73,0,0
+1657797921916,321,wishlist,200,OK,Fashion Days 1-3,text,true,,156542,322,8,8,https://www.fashiondays.ro/wishlist,51,0,0
+1657797921916,51,wishlist-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,544,127,8,8,https://fashiondays.ro/wishlist,51,0,0
+1657797921967,270,wishlist-1,200,OK,Fashion Days 1-3,text,true,,155998,195,8,8,https://www.fashiondays.ro/wishlist,113,0,0
+1657797921957,284,wishlist,200,OK,Fashion Days 1-5,text,true,,156533,322,8,8,https://www.fashiondays.ro/wishlist,20,0,0
+1657797921957,20,wishlist-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,544,127,8,8,https://fashiondays.ro/wishlist,20,0,0
+1657797921977,264,wishlist-1,200,OK,Fashion Days 1-5,text,true,,155989,195,8,8,https://www.fashiondays.ro/wishlist,128,0,0
+1657797921962,282,wishlist,200,OK,Fashion Days 1-1,text,true,,156534,322,8,8,https://www.fashiondays.ro/wishlist,39,0,0
+1657797921962,39,wishlist-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,544,127,8,8,https://fashiondays.ro/wishlist,39,0,0
+1657797922001,243,wishlist-1,200,OK,Fashion Days 1-1,text,true,,155990,195,8,8,https://www.fashiondays.ro/wishlist,155,0,0
+1657797921972,279,wishlist,200,OK,Fashion Days 1-4,text,true,,156554,322,8,8,https://www.fashiondays.ro/wishlist,29,0,0
+1657797921972,29,wishlist-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,544,127,8,8,https://fashiondays.ro/wishlist,29,0,0
+1657797922001,250,wishlist-1,200,OK,Fashion Days 1-4,text,true,,156010,195,8,8,https://www.fashiondays.ro/wishlist,189,0,0
+1657797922032,682,cart,200,OK,Fashion Days 1-6,text,true,,158196,316,10,10,https://www.fashiondays.ro/cart/,108,0,0
+1657797922032,108,cart-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,501,124,10,10,https://fashiondays.ro/cart/,108,0,0
+1657797922141,573,cart-1,200,OK,Fashion Days 1-6,text,true,,157695,192,10,10,https://www.fashiondays.ro/cart/,352,0,0
+1657797921777,1620,homepage,200,OK,Fashion Days 1-7,text,false,"The operation lasted too long: It took 1,620 milliseconds, but should not have lasted longer than 1,000 milliseconds.",234067,242,10,10,https://www.fashiondays.ro/,248,0,210
+1657797921777,248,homepage-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,535,119,10,10,https://fashiondays.ro/,248,0,210
+1657797922027,1370,homepage-1,200,OK,Fashion Days 1-7,text,true,,233532,123,10,10,https://www.fashiondays.ro/,683,0,236
+1657797922714,780,wishlist,200,OK,Fashion Days 1-6,text,true,,156542,322,10,10,https://www.fashiondays.ro/wishlist,289,0,0
+1657797922714,289,wishlist-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,289,0,0
+1657797923004,490,wishlist-1,200,OK,Fashion Days 1-6,text,true,,155998,195,10,10,https://www.fashiondays.ro/wishlist,206,0,0
+1657797922253,1337,femei-imbracaminte-camasi,200,OK,Fashion Days 1-4,text,false,"The operation lasted too long: It took 1,337 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860848,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,5,0,0
+1657797922253,5,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,5,0,0
+1657797922259,1331,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-4,text,true,,860284,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,174,0,0
+1657797922238,1376,femei-imbracaminte-camasi,200,OK,Fashion Days 1-3,text,false,"The operation lasted too long: It took 1,376 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860822,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,8,0,0
+1657797922238,8,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,8,0,0
+1657797922247,1367,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-3,text,true,,860258,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,42,0,0
+1657797922145,1487,femei-imbracaminte-camasi,200,OK,Fashion Days 1-2,text,false,"The operation lasted too long: It took 1,487 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860779,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,99,0,0
+1657797922145,99,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,99,0,0
+1657797922245,1387,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-2,text,true,,860215,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,72,0,0
+1657797922242,1416,femei-imbracaminte-camasi,200,OK,Fashion Days 1-5,text,false,"The operation lasted too long: It took 1,416 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860792,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,12,0,0
+1657797922242,12,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,12,0,0
+1657797922254,1404,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-5,text,true,,860228,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,111,0,0
+1657797922245,1513,femei-imbracaminte-camasi,200,OK,Fashion Days 1-1,text,false,"The operation lasted too long: It took 1,513 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860798,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,10,0,0
+1657797922245,10,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,10,0,0
+1657797922255,1503,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-1,text,true,,860234,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,144,0,0
+1657797922061,1713,homepage,200,OK,Fashion Days 1-8,text,false,"The operation lasted too long: It took 1,713 milliseconds, but should not have lasted longer than 1,000 milliseconds.",234143,242,10,10,https://www.fashiondays.ro/,217,0,212
+1657797922061,217,homepage-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,535,119,10,10,https://fashiondays.ro/,217,0,212
+1657797922279,1495,homepage-1,200,OK,Fashion Days 1-8,text,true,,233608,123,10,10,https://www.fashiondays.ro/,795,0,429
+1657797923398,460,cart,200,OK,Fashion Days 1-7,text,true,,158196,316,10,10,https://www.fashiondays.ro/cart/,217,0,0
+1657797923398,217,cart-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,501,124,10,10,https://fashiondays.ro/cart/,217,0,0
+1657797923615,243,cart-1,200,OK,Fashion Days 1-7,text,true,,157695,192,10,10,https://www.fashiondays.ro/cart/,171,0,0
+1657797923775,395,cart,200,OK,Fashion Days 1-8,text,true,,158209,316,10,10,https://www.fashiondays.ro/cart/,76,0,0
+1657797923775,76,cart-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,501,124,10,10,https://fashiondays.ro/cart/,76,0,0
+1657797923852,318,cart-1,200,OK,Fashion Days 1-8,text,true,,157708,192,10,10,https://www.fashiondays.ro/cart/,162,0,0
+1657797923496,687,femei-imbracaminte-camasi,200,OK,Fashion Days 1-6,text,true,,860772,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,156,0,0
+1657797923496,156,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,563,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,156,0,0
+1657797923652,531,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-6,text,true,,860209,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,122,0,0
+1657797923859,445,wishlist,200,OK,Fashion Days 1-7,text,true,,156534,322,10,10,https://www.fashiondays.ro/wishlist,39,0,0
+1657797923859,39,wishlist-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,39,0,0
+1657797923898,406,wishlist-1,200,OK,Fashion Days 1-7,text,true,,155990,195,10,10,https://www.fashiondays.ro/wishlist,89,0,0
+1657797922367,2374,homepage,200,OK,Fashion Days 1-9,text,false,"The operation lasted too long: It took 2,374 milliseconds, but should not have lasted longer than 1,000 milliseconds.",234084,242,10,10,https://www.fashiondays.ro/,933,0,714
+1657797922367,934,homepage-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,535,119,10,10,https://fashiondays.ro/,933,0,714
+1657797923302,1439,homepage-1,200,OK,Fashion Days 1-9,text,true,,233549,123,10,10,https://www.fashiondays.ro/,707,0,516
+1657797922662,2137,homepage,200,OK,Fashion Days 1-10,text,false,"The operation lasted too long: It took 2,137 milliseconds, but should not have lasted longer than 1,000 milliseconds.",234049,242,10,10,https://www.fashiondays.ro/,956,0,732
+1657797922662,956,homepage-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,536,119,10,10,https://fashiondays.ro/,956,0,732
+1657797923619,1180,homepage-1,200,OK,Fashion Days 1-10,text,true,,233513,123,10,10,https://www.fashiondays.ro/,392,0,250
+1657797924171,641,wishlist,200,OK,Fashion Days 1-8,text,true,,156530,322,10,10,https://www.fashiondays.ro/wishlist,157,0,0
+1657797924171,157,wishlist-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,157,0,0
+1657797924329,483,wishlist-1,200,OK,Fashion Days 1-8,text,true,,155987,195,10,10,https://www.fashiondays.ro/wishlist,232,0,0
+1657797923759,1582,femei-incaltaminte-cizme,200,OK,Fashion Days 1-1,text,false,"The operation lasted too long: It took 1,582 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702170,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,57,0,0
+1657797923759,57,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,57,0,0
+1657797923816,1525,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-1,text,true,,701608,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,369,0,0
+1657797923591,1777,femei-incaltaminte-cizme,200,OK,Fashion Days 1-4,text,false,"The operation lasted too long: It took 1,777 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702168,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,153,0,0
+1657797923591,153,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,153,0,0
+1657797923744,1624,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-4,text,true,,701605,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,440,0,0
+1657797923659,1863,femei-incaltaminte-cizme,200,OK,Fashion Days 1-5,text,false,"The operation lasted too long: It took 1,863 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702158,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,110,0,0
+1657797923659,110,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,110,0,0
+1657797923769,1753,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-5,text,true,,701595,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,415,0,0
+1657797924743,812,cart,200,OK,Fashion Days 1-9,text,true,,158210,316,10,10,https://www.fashiondays.ro/cart/,278,0,0
+1657797924743,279,cart-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,501,124,10,10,https://fashiondays.ro/cart/,278,0,0
+1657797925022,533,cart-1,200,OK,Fashion Days 1-9,text,true,,157709,192,10,10,https://www.fashiondays.ro/cart/,349,0,0
+1657797924801,804,cart,200,OK,Fashion Days 1-10,text,true,,158194,316,10,10,https://www.fashiondays.ro/cart/,253,0,0
+1657797924801,253,cart-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,501,124,10,10,https://fashiondays.ro/cart/,253,0,0
+1657797925055,550,cart-1,200,OK,Fashion Days 1-10,text,true,,157693,192,10,10,https://www.fashiondays.ro/cart/,364,0,0
+1657797923616,1990,femei-incaltaminte-cizme,200,OK,Fashion Days 1-3,text,false,"The operation lasted too long: It took 1,990 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702194,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,129,0,0
+1657797923616,129,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,129,0,0
+1657797923745,1861,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-3,text,true,,701631,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,518,0,0
+1657797923633,2046,femei-incaltaminte-cizme,200,OK,Fashion Days 1-2,text,false,"The operation lasted too long: It took 2,046 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702193,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,114,0,0
+1657797923633,114,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,114,0,0
+1657797923747,1932,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-2,text,true,,701630,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,516,0,0
+1657797925555,382,wishlist,200,OK,Fashion Days 1-9,text,true,,156542,322,10,10,https://www.fashiondays.ro/wishlist,165,0,0
+1657797925555,165,wishlist-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,165,0,0
+1657797925720,217,wishlist-1,200,OK,Fashion Days 1-9,text,true,,155998,195,10,10,https://www.fashiondays.ro/wishlist,181,0,0
+1657797924305,1771,femei-imbracaminte-camasi,200,OK,Fashion Days 1-7,text,false,"The operation lasted too long: It took 1,771 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860758,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,212,0,0
+1657797924305,213,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,563,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,212,0,0
+1657797924518,1558,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-7,text,true,,860195,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,451,0,0
+1657797925606,483,wishlist,200,OK,Fashion Days 1-10,text,true,,156544,322,10,10,https://www.fashiondays.ro/wishlist,141,0,0
+1657797925606,141,wishlist-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,141,0,0
+1657797925747,342,wishlist-1,200,OK,Fashion Days 1-10,text,true,,156001,195,10,10,https://www.fashiondays.ro/wishlist,203,0,0
+1657797924184,1911,femei-incaltaminte-cizme,200,OK,Fashion Days 1-6,text,false,"The operation lasted too long: It took 1,911 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702165,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,151,0,0
+1657797924184,151,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,151,0,0
+1657797924336,1759,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-6,text,true,,701603,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,202,0,0
+1657797924813,1920,femei-imbracaminte-camasi,200,OK,Fashion Days 1-8,text,false,"The operation lasted too long: It took 1,920 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860905,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,261,0,0
+1657797924813,261,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,261,0,0
+1657797925075,1658,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-8,text,true,,860341,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,312,0,0
+1657797925369,1563,cizme de piele,200,OK,Fashion Days 1-4,text,false,"The operation lasted too long: It took 1,563 milliseconds, but should not have lasted longer than 1,000 milliseconds.",267578,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,225,0,0
+1657797925369,226,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,225,0,0
+1657797925595,1337,cizme de piele-1,200,OK,Fashion Days 1-4,text,true,,266943,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,956,0,0
+1657797925608,1327,cizme de piele,200,OK,Fashion Days 1-3,text,false,"The operation lasted too long: It took 1,327 milliseconds, but should not have lasted longer than 1,000 milliseconds.",267573,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,142,0,0
+1657797925608,142,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,142,0,0
+1657797925750,1185,cizme de piele-1,200,OK,Fashion Days 1-3,text,true,,266938,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,801,0,0
+1657797925523,1425,cizme de piele,200,OK,Fashion Days 1-5,text,false,"The operation lasted too long: It took 1,425 milliseconds, but should not have lasted longer than 1,000 milliseconds.",267581,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,197,0,0
+1657797925523,197,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,197,0,0
+1657797925720,1228,cizme de piele-1,200,OK,Fashion Days 1-5,text,true,,266945,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,846,0,0
+1657797925937,1055,femei-imbracaminte-camasi,200,OK,Fashion Days 1-9,text,false,"The operation lasted too long: It took 1,055 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860783,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,134,0,0
+1657797925937,134,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,134,0,0
+1657797926071,921,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-9,text,true,,860219,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,402,0,0
+1657797926096,909,cizme de piele,200,OK,Fashion Days 1-6,text,true,,267580,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,360,0,0
+1657797926096,360,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,360,0,0
+1657797926456,549,cizme de piele-1,200,OK,Fashion Days 1-6,text,true,,266944,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,170,0,0
+1657797925680,1378,cizme de piele,200,OK,Fashion Days 1-2,text,false,"The operation lasted too long: It took 1,378 milliseconds, but should not have lasted longer than 1,000 milliseconds.",267583,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,148,0,0
+1657797925680,148,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,148,0,0
+1657797925829,1229,cizme de piele-1,200,OK,Fashion Days 1-2,text,true,,266947,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,766,0,0
+1657797925343,1795,cizme de piele,200,OK,Fashion Days 1-1,text,false,"The operation lasted too long: It took 1,795 milliseconds, but should not have lasted longer than 1,000 milliseconds.",267594,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,187,0,0
+1657797925343,187,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,187,0,0
+1657797925530,1608,cizme de piele-1,200,OK,Fashion Days 1-1,text,true,,266958,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,1059,0,0
+1657797926078,1234,femei-incaltaminte-cizme,200,OK,Fashion Days 1-7,text,false,"The operation lasted too long: It took 1,234 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702163,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,378,0,0
+1657797926078,378,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,378,0,0
+1657797926456,856,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-7,text,true,,701600,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,141,0,0
+1657797926090,1309,femei-imbracaminte-camasi,200,OK,Fashion Days 1-10,text,false,"The operation lasted too long: It took 1,309 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860820,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,366,0,0
+1657797926090,366,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,366,0,0
+1657797926456,943,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-10,text,true,,860256,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,190,0,0
+1657797926993,722,femei-incaltaminte-cizme,200,OK,Fashion Days 1-9,text,true,,702170,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,132,0,0
+1657797926993,132,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,132,0,0
+1657797927125,590,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-9,text,true,,701607,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,98,0,0
+1657797926949,778,homepage,200,OK,Fashion Days 1-5,text,true,,234257,242,10,10,https://www.fashiondays.ro/,97,0,0
+1657797926949,97,homepage-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,535,119,10,10,https://fashiondays.ro/,97,0,0
+1657797927047,680,homepage-1,200,OK,Fashion Days 1-5,text,true,,233722,123,10,10,https://www.fashiondays.ro/,278,0,0
+1657797926936,809,homepage,200,OK,Fashion Days 1-3,text,true,,234281,242,10,10,https://www.fashiondays.ro/,111,0,0
+1657797926936,111,homepage-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,535,119,10,10,https://fashiondays.ro/,111,0,0
+1657797927048,697,homepage-1,200,OK,Fashion Days 1-3,text,true,,233746,123,10,10,https://www.fashiondays.ro/,302,0,0
+1657797926734,1067,femei-incaltaminte-cizme,200,OK,Fashion Days 1-8,text,false,"The operation lasted too long: It took 1,067 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702157,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,245,0,0
+1657797926734,245,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,245,0,0
+1657797926979,822,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-8,text,true,,701594,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,96,0,0
+1657797927006,878,homepage,200,OK,Fashion Days 1-6,text,true,,234271,242,10,10,https://www.fashiondays.ro/,120,0,0
+1657797927006,120,homepage-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,536,119,10,10,https://fashiondays.ro/,120,0,0
+1657797927126,758,homepage-1,200,OK,Fashion Days 1-6,text,true,,233735,123,10,10,https://www.fashiondays.ro/,280,0,0
+1657797926933,962,homepage,200,OK,Fashion Days 1-4,text,true,,234278,242,10,10,https://www.fashiondays.ro/,113,0,0
+1657797926933,113,homepage-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,535,119,10,10,https://fashiondays.ro/,113,0,0
+1657797927047,848,homepage-1,200,OK,Fashion Days 1-4,text,true,,233743,123,10,10,https://www.fashiondays.ro/,262,0,0
+1657797927139,773,homepage,200,OK,Fashion Days 1-1,text,true,,234260,242,10,10,https://www.fashiondays.ro/,171,0,0
+1657797927139,172,homepage-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,536,119,10,10,https://fashiondays.ro/,171,0,0
+1657797927311,601,homepage-1,200,OK,Fashion Days 1-1,text,true,,233724,123,10,10,https://www.fashiondays.ro/,318,0,0
+1657797927060,943,homepage,200,OK,Fashion Days 1-2,text,true,,234266,242,10,10,https://www.fashiondays.ro/,88,0,0
+1657797927060,88,homepage-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,536,119,10,10,https://fashiondays.ro/,88,0,0
+1657797927148,855,homepage-1,200,OK,Fashion Days 1-2,text,true,,233730,123,10,10,https://www.fashiondays.ro/,280,0,0
+1657797927715,383,cizme de piele,200,OK,Fashion Days 1-9,text,true,,267581,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,180,0,0
+1657797927715,180,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,180,0,0
+1657797927895,203,cizme de piele-1,200,OK,Fashion Days 1-9,text,true,,266946,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,114,0,0
+1657797927313,832,cizme de piele,200,OK,Fashion Days 1-7,text,true,,267606,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,248,0,0
+1657797927313,248,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,248,0,0
+1657797927561,584,cizme de piele-1,200,OK,Fashion Days 1-7,text,true,,266970,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,285,0,0
+1657797927400,825,femei-incaltaminte-cizme,200,OK,Fashion Days 1-10,text,true,,702164,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,223,0,0
+1657797927400,223,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,223,0,0
+1657797927624,601,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-10,text,true,,701602,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,178,0,0
+1657797927803,525,cizme de piele,200,OK,Fashion Days 1-8,text,true,,267579,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,120,0,0
+1657797927803,120,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,120,0,0
+1657797927924,404,cizme de piele-1,200,OK,Fashion Days 1-8,text,true,,266943,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,176,0,0
+1657797927746,620,cart,200,OK,Fashion Days 1-3,text,true,,158207,316,10,10,https://www.fashiondays.ro/cart/,151,0,0
+1657797927746,151,cart-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,501,124,10,10,https://fashiondays.ro/cart/,151,0,0
+1657797927897,469,cart-1,200,OK,Fashion Days 1-3,text,true,,157706,192,10,10,https://www.fashiondays.ro/cart/,251,0,0
+1657797927728,652,cart,200,OK,Fashion Days 1-5,text,true,,158240,316,10,10,https://www.fashiondays.ro/cart/,165,0,0
+1657797927728,165,cart-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,501,124,10,10,https://fashiondays.ro/cart/,165,0,0
+1657797927893,487,cart-1,200,OK,Fashion Days 1-5,text,true,,157739,192,10,10,https://www.fashiondays.ro/cart/,281,0,0
+1657797927885,509,cart,200,OK,Fashion Days 1-6,text,true,,168802,316,10,10,https://www.fashiondays.ro/cart/,116,0,0
+1657797927885,116,cart-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,501,124,10,10,https://fashiondays.ro/cart/,116,0,0
+1657797928001,393,cart-1,200,OK,Fashion Days 1-6,text,true,,168301,192,10,10,https://www.fashiondays.ro/cart/,279,0,0
+1657797927896,530,cart,200,OK,Fashion Days 1-4,text,true,,158213,316,10,10,https://www.fashiondays.ro/cart/,105,0,0
+1657797927896,105,cart-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,501,124,10,10,https://fashiondays.ro/cart/,105,0,0
+1657797928004,422,cart-1,200,OK,Fashion Days 1-4,text,true,,157712,192,10,10,https://www.fashiondays.ro/cart/,309,0,0
+1657797927913,529,cart,200,OK,Fashion Days 1-1,text,true,,158228,316,10,10,https://www.fashiondays.ro/cart/,90,0,0
+1657797927913,90,cart-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,501,124,10,10,https://fashiondays.ro/cart/,90,0,0
+1657797928003,439,cart-1,200,OK,Fashion Days 1-1,text,true,,157727,192,10,10,https://www.fashiondays.ro/cart/,332,0,0
+1657797928004,631,cart,200,OK,Fashion Days 1-2,text,true,,158202,316,10,10,https://www.fashiondays.ro/cart/,209,0,0
+1657797928004,209,cart-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,501,124,10,10,https://fashiondays.ro/cart/,209,0,0
+1657797928213,422,cart-1,200,OK,Fashion Days 1-2,text,true,,157701,192,10,10,https://www.fashiondays.ro/cart/,177,0,0
+1657797928105,634,homepage,200,OK,Fashion Days 1-9,text,true,,234250,242,10,10,https://www.fashiondays.ro/,171,0,0
+1657797928105,171,homepage-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,535,119,10,10,https://fashiondays.ro/,171,0,0
+1657797928276,463,homepage-1,200,OK,Fashion Days 1-9,text,true,,233715,123,10,10,https://www.fashiondays.ro/,161,0,0
+1657797928226,518,cizme de piele,200,OK,Fashion Days 1-10,text,true,,267573,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,147,0,0
+1657797928226,147,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,147,0,0
+1657797928374,370,cizme de piele-1,200,OK,Fashion Days 1-10,text,true,,266937,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,206,0,0
+1657797928146,654,homepage,200,OK,Fashion Days 1-7,text,true,,234256,242,10,10,https://www.fashiondays.ro/,211,0,0
+1657797928146,211,homepage-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,535,119,10,10,https://fashiondays.ro/,211,0,0
+1657797928357,443,homepage-1,200,OK,Fashion Days 1-7,text,true,,233721,123,10,10,https://www.fashiondays.ro/,275,0,0
+1657797928366,440,wishlist,200,OK,Fashion Days 1-3,text,true,,156541,322,10,10,https://www.fashiondays.ro/wishlist,68,0,0
+1657797928366,68,wishlist-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,68,0,0
+1657797928435,371,wishlist-1,200,OK,Fashion Days 1-3,text,true,,155997,195,10,10,https://www.fashiondays.ro/wishlist,221,0,0
+1657797928329,548,homepage,200,OK,Fashion Days 1-8,text,true,,234282,242,10,10,https://www.fashiondays.ro/,91,0,0
+1657797928329,91,homepage-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,536,119,10,10,https://fashiondays.ro/,91,0,0
+1657797928421,456,homepage-1,200,OK,Fashion Days 1-8,text,true,,233746,123,10,10,https://www.fashiondays.ro/,253,0,0
+1657797928380,507,wishlist,200,OK,Fashion Days 1-5,text,true,,156534,322,10,10,https://www.fashiondays.ro/wishlist,93,0,0
+1657797928380,93,wishlist-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,93,0,0
+1657797928474,413,wishlist-1,200,OK,Fashion Days 1-5,text,true,,155990,195,10,10,https://www.fashiondays.ro/wishlist,236,0,0
+1657797928395,501,wishlist,200,OK,Fashion Days 1-6,text,true,,156552,322,10,10,https://www.fashiondays.ro/wishlist,173,0,0
+1657797928395,173,wishlist-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,173,0,0
+1657797928569,327,wishlist-1,200,OK,Fashion Days 1-6,text,true,,156009,195,10,10,https://www.fashiondays.ro/wishlist,176,0,0
+1657797928443,471,wishlist,200,OK,Fashion Days 1-1,text,true,,156535,322,10,10,https://www.fashiondays.ro/wishlist,185,0,0
+1657797928443,185,wishlist-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,185,0,0
+1657797928628,286,wishlist-1,200,OK,Fashion Days 1-1,text,true,,155991,195,10,10,https://www.fashiondays.ro/wishlist,178,0,0
+1657797928427,509,wishlist,200,OK,Fashion Days 1-4,text,true,,156534,322,10,10,https://www.fashiondays.ro/wishlist,200,0,0
+1657797928427,200,wishlist-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,200,0,0
+1657797928627,309,wishlist-1,200,OK,Fashion Days 1-4,text,true,,155991,195,10,10,https://www.fashiondays.ro/wishlist,199,0,0
+1657797928636,326,wishlist,200,OK,Fashion Days 1-2,text,true,,156534,322,10,10,https://www.fashiondays.ro/wishlist,155,0,0
+1657797928636,155,wishlist-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,155,0,0
+1657797928792,170,wishlist-1,200,OK,Fashion Days 1-2,text,true,,155990,195,10,10,https://www.fashiondays.ro/wishlist,130,0,0
+1657797928740,436,cart,200,OK,Fashion Days 1-9,text,true,,158229,316,10,10,https://www.fashiondays.ro/cart/,145,0,0
+1657797928740,145,cart-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,501,124,10,10,https://fashiondays.ro/cart/,145,0,0
+1657797928885,291,cart-1,200,OK,Fashion Days 1-9,text,true,,157728,192,10,10,https://www.fashiondays.ro/cart/,244,0,0
+1657797928745,475,homepage,200,OK,Fashion Days 1-10,text,true,,234260,242,10,10,https://www.fashiondays.ro/,142,0,0
+1657797928745,142,homepage-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,535,119,10,10,https://fashiondays.ro/,142,0,0
+1657797928887,333,homepage-1,200,OK,Fashion Days 1-10,text,true,,233725,123,10,10,https://www.fashiondays.ro/,119,0,0
+1657797928801,629,cart,200,OK,Fashion Days 1-7,text,true,,158219,316,10,10,https://www.fashiondays.ro/cart/,104,0,0
+1657797928801,104,cart-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,503,124,10,10,https://fashiondays.ro/cart/,104,0,0
+1657797928905,525,cart-1,200,OK,Fashion Days 1-7,text,true,,157716,192,10,10,https://www.fashiondays.ro/cart/,324,0,0
+1657797928879,565,cart,200,OK,Fashion Days 1-8,text,true,,158195,316,10,10,https://www.fashiondays.ro/cart/,54,0,0
+1657797928879,54,cart-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,503,124,10,10,https://fashiondays.ro/cart/,54,0,0
+1657797928933,511,cart-1,200,OK,Fashion Days 1-8,text,true,,157692,192,10,10,https://www.fashiondays.ro/cart/,348,0,0
+1657797929176,466,wishlist,200,OK,Fashion Days 1-9,text,true,,167128,322,10,10,https://www.fashiondays.ro/wishlist,222,0,0
+1657797929176,222,wishlist-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,222,0,0
+1657797929398,244,wishlist-1,200,OK,Fashion Days 1-9,text,true,,166585,195,10,10,https://www.fashiondays.ro/wishlist,196,0,0
+1657797929222,575,cart,200,OK,Fashion Days 1-10,text,true,,158187,316,10,10,https://www.fashiondays.ro/cart/,205,0,0
+1657797929222,205,cart-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,501,124,10,10,https://fashiondays.ro/cart/,205,0,0
+1657797929428,369,cart-1,200,OK,Fashion Days 1-10,text,true,,157686,192,10,10,https://www.fashiondays.ro/cart/,346,0,0
+1657797929444,690,wishlist,200,OK,Fashion Days 1-8,text,true,,156533,322,10,10,https://www.fashiondays.ro/wishlist,242,0,0
+1657797929444,242,wishlist-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,242,0,0
+1657797929686,448,wishlist-1,200,OK,Fashion Days 1-8,text,true,,155990,195,10,10,https://www.fashiondays.ro/wishlist,195,0,0
+1657797929430,717,wishlist,200,OK,Fashion Days 1-7,text,true,,156547,322,10,10,https://www.fashiondays.ro/wishlist,257,0,0
+1657797929430,257,wishlist-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,257,0,0
+1657797929687,460,wishlist-1,200,OK,Fashion Days 1-7,text,true,,156004,195,10,10,https://www.fashiondays.ro/wishlist,264,0,0
+1657797928888,1479,femei-imbracaminte-camasi,200,OK,Fashion Days 1-5,text,false,"The operation lasted too long: It took 1,479 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860902,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,45,0,0
+1657797928888,45,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,563,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,45,0,0
+1657797928933,1434,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-5,text,true,,860339,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,169,0,0
+1657797928807,1566,femei-imbracaminte-camasi,200,OK,Fashion Days 1-3,text,false,"The operation lasted too long: It took 1,566 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860869,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,98,0,0
+1657797928807,98,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,98,0,0
+1657797928905,1468,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-3,text,true,,860305,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,80,0,0
+1657797929797,606,wishlist,200,OK,Fashion Days 1-10,text,true,,156525,322,10,10,https://www.fashiondays.ro/wishlist,340,0,0
+1657797929797,340,wishlist-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,340,0,0
+1657797930138,265,wishlist-1,200,OK,Fashion Days 1-10,text,true,,155981,195,10,10,https://www.fashiondays.ro/wishlist,234,0,0
+1657797928897,1606,femei-imbracaminte-camasi,200,OK,Fashion Days 1-6,text,false,"The operation lasted too long: It took 1,606 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860910,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,37,0,0
+1657797928897,37,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,563,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,37,0,0
+1657797928934,1569,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-6,text,true,,860347,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,145,0,0
+1657797928914,1829,femei-imbracaminte-camasi,200,OK,Fashion Days 1-1,text,false,"The operation lasted too long: It took 1,829 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860947,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,36,0,0
+1657797928914,36,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,36,0,0
+1657797928951,1792,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-1,text,true,,860383,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,225,0,0
+1657797928937,2218,femei-imbracaminte-camasi,200,OK,Fashion Days 1-4,text,false,"The operation lasted too long: It took 2,218 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860899,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,67,0,0
+1657797928937,67,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,67,0,0
+1657797929004,2151,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-4,text,true,,860335,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,236,0,0
+1657797928963,2215,femei-imbracaminte-camasi,200,OK,Fashion Days 1-2,text,false,"The operation lasted too long: It took 2,215 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860906,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,98,0,0
+1657797928963,98,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,563,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,98,0,0
+1657797929061,2117,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-2,text,true,,860343,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,291,0,0
+1657797929643,1559,femei-imbracaminte-camasi,200,OK,Fashion Days 1-9,text,false,"The operation lasted too long: It took 1,559 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860911,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,195,0,0
+1657797929643,195,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,195,0,0
+1657797929838,1364,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-9,text,true,,860347,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,390,0,0
+1657797930149,1497,femei-imbracaminte-camasi,200,OK,Fashion Days 1-8,text,false,"The operation lasted too long: It took 1,497 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860898,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,209,0,0
+1657797930149,209,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,209,0,0
+1657797930358,1288,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-8,text,true,,860334,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,178,0,0
+1657797930404,1403,femei-imbracaminte-camasi,200,OK,Fashion Days 1-10,text,false,"The operation lasted too long: It took 1,403 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860902,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,311,0,0
+1657797930404,312,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,311,0,0
+1657797930716,1091,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-10,text,true,,860338,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,373,0,0
+1657797930148,1745,femei-imbracaminte-camasi,200,OK,Fashion Days 1-7,text,false,"The operation lasted too long: It took 1,745 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860907,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,210,0,0
+1657797930148,210,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,210,0,0
+1657797930358,1535,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-7,text,true,,860343,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,207,0,0
+1657797930368,1542,femei-incaltaminte-cizme,200,OK,Fashion Days 1-5,text,false,"The operation lasted too long: It took 1,542 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702149,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,228,0,0
+1657797930368,228,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,228,0,0
+1657797930596,1314,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-5,text,true,,701587,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,243,0,0
+1657797930374,1761,femei-incaltaminte-cizme,200,OK,Fashion Days 1-3,text,false,"The operation lasted too long: It took 1,761 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702151,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,225,0,0
+1657797930374,225,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,225,0,0
+1657797930599,1536,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-3,text,true,,701589,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,268,0,0
+1657797931203,1103,femei-incaltaminte-cizme,200,OK,Fashion Days 1-9,text,false,"The operation lasted too long: It took 1,103 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702189,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,241,0,0
+1657797931203,241,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,241,0,0
+1657797931445,861,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-9,text,true,,701626,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,219,0,0
+1657797930504,1809,femei-incaltaminte-cizme,200,OK,Fashion Days 1-6,text,false,"The operation lasted too long: It took 1,809 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702168,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,215,0,0
+1657797930504,215,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,215,0,0
+1657797930719,1594,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-6,text,true,,701605,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,324,0,0
+1657797930745,1907,femei-incaltaminte-cizme,200,OK,Fashion Days 1-1,text,false,"The operation lasted too long: It took 1,907 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702162,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,291,0,0
+1657797930745,291,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,291,0,0
+1657797931037,1615,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-1,text,true,,701600,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,218,0,0
+1657797931808,989,femei-incaltaminte-cizme,200,OK,Fashion Days 1-10,text,true,,702154,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,151,0,0
+1657797931808,151,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,151,0,0
+1657797931960,837,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-10,text,true,,701592,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,237,0,0
+1657797931911,944,cizme de piele,200,OK,Fashion Days 1-5,text,true,,267590,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,190,0,0
+1657797931911,190,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,190,0,0
+1657797932101,754,cizme de piele-1,200,OK,Fashion Days 1-5,text,true,,266954,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,271,0,0
+1657797931647,1245,femei-incaltaminte-cizme,200,OK,Fashion Days 1-8,text,false,"The operation lasted too long: It took 1,245 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702164,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,196,0,0
+1657797931647,196,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,196,0,0
+1657797931843,1049,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-8,text,true,,701602,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,134,0,0
+1657797932307,655,cizme de piele,200,OK,Fashion Days 1-9,text,true,,267587,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,310,0,0
+1657797932307,310,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,310,0,0
+1657797932618,344,cizme de piele-1,200,OK,Fashion Days 1-9,text,true,,266951,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,193,0,0
+1657797932136,857,cizme de piele,200,OK,Fashion Days 1-3,text,true,,267579,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,267,0,0
+1657797932136,267,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,267,0,0
+1657797932403,590,cizme de piele-1,200,OK,Fashion Days 1-3,text,true,,266944,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,325,0,0
+1657797931156,1850,femei-incaltaminte-cizme,200,OK,Fashion Days 1-4,text,false,"The operation lasted too long: It took 1,850 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702161,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,237,0,0
+1657797931156,237,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,237,0,0
+1657797931393,1613,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-4,text,true,,701599,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,230,0,0
+1657797931179,1839,femei-incaltaminte-cizme,200,OK,Fashion Days 1-2,text,false,"The operation lasted too long: It took 1,839 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702162,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,265,0,0
+1657797931179,265,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,265,0,0
+1657797931445,1573,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-2,text,true,,701599,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,222,0,0
+1657797932314,727,cizme de piele,200,OK,Fashion Days 1-6,text,true,,267607,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,304,0,0
+1657797932314,304,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,304,0,0
+1657797932619,422,cizme de piele-1,200,OK,Fashion Days 1-6,text,true,,266971,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,174,0,0
+1657797931894,1240,femei-incaltaminte-cizme,200,OK,Fashion Days 1-7,text,false,"The operation lasted too long: It took 1,240 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702170,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,185,0,0
+1657797931894,185,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,185,0,0
+1657797932079,1055,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-7,text,true,,701607,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,251,0,0
+1657797932798,342,cizme de piele,200,OK,Fashion Days 1-10,text,true,,267578,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,136,0,0
+1657797932798,136,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,136,0,0
+1657797932934,206,cizme de piele-1,200,OK,Fashion Days 1-10,text,true,,266942,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,100,0,0
+1657797932653,552,cizme de piele,200,OK,Fashion Days 1-1,text,true,,267598,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,198,0,0
+1657797932653,198,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,198,0,0
+1657797932851,354,cizme de piele-1,200,OK,Fashion Days 1-1,text,true,,266962,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,136,0,0
+1657797932963,358,homepage,200,OK,Fashion Days 1-9,text,true,,234230,242,10,10,https://www.fashiondays.ro/,67,0,0
+1657797932963,67,homepage-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,536,119,10,10,https://fashiondays.ro/,67,0,0
+1657797933030,291,homepage-1,200,OK,Fashion Days 1-9,text,true,,233694,123,10,10,https://www.fashiondays.ro/,171,0,0
+1657797932856,466,homepage,200,OK,Fashion Days 1-5,text,true,,234251,242,10,10,https://www.fashiondays.ro/,125,0,0
+1657797932856,125,homepage-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,535,119,10,10,https://fashiondays.ro/,125,0,0
+1657797932981,341,homepage-1,200,OK,Fashion Days 1-5,text,true,,233716,123,10,10,https://www.fashiondays.ro/,191,0,0
+1657797932893,465,cizme de piele,200,OK,Fashion Days 1-8,text,true,,267578,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,125,0,0
+1657797932893,126,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,125,0,0
+1657797933019,339,cizme de piele-1,200,OK,Fashion Days 1-8,text,true,,266942,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,121,0,0
+1657797933019,520,cizme de piele,200,OK,Fashion Days 1-2,text,true,,267576,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,106,0,0
+1657797933019,106,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,106,0,0
+1657797933125,414,cizme de piele-1,200,OK,Fashion Days 1-2,text,true,,266941,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,134,0,0
+1657797932995,549,homepage,200,OK,Fashion Days 1-3,text,true,,234279,242,10,10,https://www.fashiondays.ro/,126,0,0
+1657797932995,126,homepage-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,536,119,10,10,https://fashiondays.ro/,126,0,0
+1657797933121,423,homepage-1,200,OK,Fashion Days 1-3,text,true,,233743,123,10,10,https://www.fashiondays.ro/,210,0,0
+1657797933007,543,cizme de piele,200,OK,Fashion Days 1-4,text,true,,267578,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,117,0,0
+1657797933007,117,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,117,0,0
+1657797933125,425,cizme de piele-1,200,OK,Fashion Days 1-4,text,true,,266942,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,148,0,0
+1657797933135,431,cizme de piele,200,OK,Fashion Days 1-7,text,true,,267579,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,98,0,0
+1657797933135,98,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,98,0,0
+1657797933233,333,cizme de piele-1,200,OK,Fashion Days 1-7,text,true,,266944,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,122,0,0
+1657797933141,426,homepage,200,OK,Fashion Days 1-10,text,true,,234234,242,10,10,https://www.fashiondays.ro/,114,0,0
+1657797933141,114,homepage-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,535,119,10,10,https://fashiondays.ro/,114,0,0
+1657797933255,312,homepage-1,200,OK,Fashion Days 1-10,text,true,,233699,123,10,10,https://www.fashiondays.ro/,188,0,0
+1657797933042,571,homepage,200,OK,Fashion Days 1-6,text,true,,234248,242,10,10,https://www.fashiondays.ro/,126,0,0
+1657797933042,126,homepage-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,535,119,10,10,https://fashiondays.ro/,126,0,0
+1657797933168,445,homepage-1,200,OK,Fashion Days 1-6,text,true,,233713,123,10,10,https://www.fashiondays.ro/,208,0,0
+1657797933322,306,cart,200,OK,Fashion Days 1-9,text,true,,158197,316,10,10,https://www.fashiondays.ro/cart/,108,0,0
+1657797933322,108,cart-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,503,124,10,10,https://fashiondays.ro/cart/,108,0,0
+1657797933430,198,cart-1,200,OK,Fashion Days 1-9,text,true,,157694,192,10,10,https://www.fashiondays.ro/cart/,146,0,0
+1657797933323,370,cart,200,OK,Fashion Days 1-5,text,true,,158211,316,10,10,https://www.fashiondays.ro/cart/,107,0,0
+1657797933323,107,cart-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,503,124,10,10,https://fashiondays.ro/cart/,107,0,0
+1657797933430,263,cart-1,200,OK,Fashion Days 1-5,text,true,,157708,192,10,10,https://www.fashiondays.ro/cart/,195,0,0
+1657797933206,500,homepage,200,OK,Fashion Days 1-1,text,true,,234281,242,10,10,https://www.fashiondays.ro/,143,0,0
+1657797933206,143,homepage-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,536,119,10,10,https://fashiondays.ro/,143,0,0
+1657797933349,357,homepage-1,200,OK,Fashion Days 1-1,text,true,,233745,123,10,10,https://www.fashiondays.ro/,197,0,0
+1657797933359,352,homepage,200,OK,Fashion Days 1-8,text,true,,234255,242,10,10,https://www.fashiondays.ro/,140,0,0
+1657797933359,140,homepage-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,536,119,10,10,https://fashiondays.ro/,140,0,0
+1657797933499,212,homepage-1,200,OK,Fashion Days 1-8,text,true,,233719,123,10,10,https://www.fashiondays.ro/,141,0,0
+1657797933629,137,wishlist,200,OK,Fashion Days 1-9,text,true,,156534,322,10,10,https://www.fashiondays.ro/wishlist,59,0,0
+1657797933629,59,wishlist-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,59,0,0
+1657797933688,78,wishlist-1,200,OK,Fashion Days 1-9,text,true,,155991,195,10,10,https://www.fashiondays.ro/wishlist,54,0,0
+1657797933568,371,cart,200,OK,Fashion Days 1-10,text,true,,158212,316,10,10,https://www.fashiondays.ro/cart/,108,0,0
+1657797933568,108,cart-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,501,124,10,10,https://fashiondays.ro/cart/,108,0,0
+1657797933677,262,cart-1,200,OK,Fashion Days 1-10,text,true,,157711,192,10,10,https://www.fashiondays.ro/cart/,237,0,0
+1657797933693,351,wishlist,200,OK,Fashion Days 1-5,text,true,,156554,322,10,10,https://www.fashiondays.ro/wishlist,14,0,0
+1657797933693,14,wishlist-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,14,0,0
+1657797933707,337,wishlist-1,200,OK,Fashion Days 1-5,text,true,,156010,195,10,10,https://www.fashiondays.ro/wishlist,128,0,0
+1657797933567,506,homepage,200,OK,Fashion Days 1-7,text,true,,234269,242,10,10,https://www.fashiondays.ro/,109,0,0
+1657797933567,109,homepage-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,536,119,10,10,https://fashiondays.ro/,109,0,0
+1657797933677,396,homepage-1,200,OK,Fashion Days 1-7,text,true,,233733,123,10,10,https://www.fashiondays.ro/,180,0,0
+1657797933707,439,cart,200,OK,Fashion Days 1-1,text,true,,158202,316,10,10,https://www.fashiondays.ro/cart/,5,0,0
+1657797933707,5,cart-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,501,124,10,10,https://fashiondays.ro/cart/,5,0,0
+1657797933712,434,cart-1,200,OK,Fashion Days 1-1,text,true,,157701,192,10,10,https://www.fashiondays.ro/cart/,224,0,0
+1657797933614,588,cart,200,OK,Fashion Days 1-6,text,true,,168795,316,10,10,https://www.fashiondays.ro/cart/,61,0,0
+1657797933614,61,cart-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,501,124,10,10,https://fashiondays.ro/cart/,61,0,0
+1657797933676,526,cart-1,200,OK,Fashion Days 1-6,text,true,,168294,192,10,10,https://www.fashiondays.ro/cart/,284,0,0
+1657797933540,663,homepage,200,OK,Fashion Days 1-2,text,true,,244853,242,10,10,https://www.fashiondays.ro/,79,0,0
+1657797933540,79,homepage-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,536,119,10,10,https://fashiondays.ro/,79,0,0
+1657797933619,584,homepage-1,200,OK,Fashion Days 1-2,text,true,,244317,123,10,10,https://www.fashiondays.ro/,149,0,0
+1657797933545,661,cart,200,OK,Fashion Days 1-3,text,true,,158199,316,10,10,https://www.fashiondays.ro/cart/,130,0,0
+1657797933545,130,cart-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,501,124,10,10,https://fashiondays.ro/cart/,130,0,0
+1657797933676,530,cart-1,200,OK,Fashion Days 1-3,text,true,,157698,192,10,10,https://www.fashiondays.ro/cart/,300,0,0
+1657797933711,497,cart,200,OK,Fashion Days 1-8,text,true,,158215,316,10,10,https://www.fashiondays.ro/cart/,4,0,0
+1657797933711,4,cart-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,501,124,10,10,https://fashiondays.ro/cart/,4,0,0
+1657797933716,492,cart-1,200,OK,Fashion Days 1-8,text,true,,157714,192,10,10,https://www.fashiondays.ro/cart/,304,0,0
+1657797933551,670,homepage,200,OK,Fashion Days 1-4,text,true,,234263,242,10,10,https://www.fashiondays.ro/,124,0,0
+1657797933551,125,homepage-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,536,119,10,10,https://fashiondays.ro/,124,0,0
+1657797933676,545,homepage-1,200,OK,Fashion Days 1-4,text,true,,233727,123,10,10,https://www.fashiondays.ro/,211,0,0
+1657797933939,331,wishlist,200,OK,Fashion Days 1-10,text,true,,156534,322,10,10,https://www.fashiondays.ro/wishlist,194,0,0
+1657797933939,194,wishlist-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,194,0,0
+1657797934133,137,wishlist-1,200,OK,Fashion Days 1-10,text,true,,155990,195,10,10,https://www.fashiondays.ro/wishlist,106,0,0
+1657797933767,923,femei-imbracaminte-camasi,200,OK,Fashion Days 1-9,text,true,,860908,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,142,0,0
+1657797933767,142,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,563,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,142,0,0
+1657797933910,780,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-9,text,true,,860345,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,227,0,0
+1657797934147,594,wishlist,200,OK,Fashion Days 1-1,text,true,,156533,322,10,10,https://www.fashiondays.ro/wishlist,90,0,0
+1657797934147,90,wishlist-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,90,0,0
+1657797934237,504,wishlist-1,200,OK,Fashion Days 1-1,text,true,,155989,195,10,10,https://www.fashiondays.ro/wishlist,155,0,0
+1657797934074,712,cart,200,OK,Fashion Days 1-7,text,true,,158225,316,10,10,https://www.fashiondays.ro/cart/,130,0,0
+1657797934074,130,cart-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,501,124,10,10,https://fashiondays.ro/cart/,130,0,0
+1657797934205,581,cart-1,200,OK,Fashion Days 1-7,text,true,,157724,192,10,10,https://www.fashiondays.ro/cart/,255,0,0
+1657797934207,585,wishlist,200,OK,Fashion Days 1-3,text,true,,156548,322,10,10,https://www.fashiondays.ro/wishlist,78,0,0
+1657797934207,78,wishlist-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,78,0,0
+1657797934285,507,wishlist-1,200,OK,Fashion Days 1-3,text,true,,156004,195,10,10,https://www.fashiondays.ro/wishlist,208,0,0
+1657797934203,597,wishlist,200,OK,Fashion Days 1-6,text,true,,156533,322,10,10,https://www.fashiondays.ro/wishlist,79,0,0
+1657797934203,79,wishlist-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,79,0,0
+1657797934283,517,wishlist-1,200,OK,Fashion Days 1-6,text,true,,155990,195,10,10,https://www.fashiondays.ro/wishlist,253,0,0
+1657797934209,615,wishlist,200,OK,Fashion Days 1-8,text,true,,156532,322,10,10,https://www.fashiondays.ro/wishlist,76,0,0
+1657797934209,76,wishlist-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,76,0,0
+1657797934286,538,wishlist-1,200,OK,Fashion Days 1-8,text,true,,155988,195,10,10,https://www.fashiondays.ro/wishlist,298,0,0
+1657797934222,667,cart,200,OK,Fashion Days 1-4,text,true,,158214,316,10,10,https://www.fashiondays.ro/cart/,70,0,0
+1657797934222,70,cart-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,503,124,10,10,https://fashiondays.ro/cart/,70,0,0
+1657797934292,597,cart-1,200,OK,Fashion Days 1-4,text,true,,157711,192,10,10,https://www.fashiondays.ro/cart/,439,0,0
+1657797934205,713,cart,200,OK,Fashion Days 1-2,text,true,,158205,316,10,10,https://www.fashiondays.ro/cart/,80,0,0
+1657797934205,80,cart-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,501,124,10,10,https://fashiondays.ro/cart/,80,0,0
+1657797934285,633,cart-1,200,OK,Fashion Days 1-2,text,true,,157704,192,10,10,https://www.fashiondays.ro/cart/,465,0,0
+1657797934270,995,femei-imbracaminte-camasi,200,OK,Fashion Days 1-10,text,true,,860910,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,99,0,0
+1657797934270,99,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,99,0,0
+1657797934369,896,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-10,text,true,,860346,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,322,0,0
+1657797934787,525,wishlist,200,OK,Fashion Days 1-7,text,true,,156541,322,10,10,https://www.fashiondays.ro/wishlist,140,0,0
+1657797934787,140,wishlist-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,140,0,0
+1657797934927,385,wishlist-1,200,OK,Fashion Days 1-7,text,true,,155997,195,10,10,https://www.fashiondays.ro/wishlist,189,0,0
+1657797934919,599,wishlist,200,OK,Fashion Days 1-2,text,true,,156542,322,10,10,https://www.fashiondays.ro/wishlist,134,0,0
+1657797934919,134,wishlist-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,134,0,0
+1657797935053,465,wishlist-1,200,OK,Fashion Days 1-2,text,true,,155998,195,10,10,https://www.fashiondays.ro/wishlist,272,0,0
+1657797934889,634,wishlist,200,OK,Fashion Days 1-4,text,true,,156532,322,10,10,https://www.fashiondays.ro/wishlist,149,0,0
+1657797934889,149,wishlist-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,149,0,0
+1657797935038,485,wishlist-1,200,OK,Fashion Days 1-4,text,true,,155989,195,10,10,https://www.fashiondays.ro/wishlist,298,0,0
+1657797934691,875,femei-incaltaminte-cizme,200,OK,Fashion Days 1-9,text,true,,702152,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,146,0,0
+1657797934691,146,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,146,0,0
+1657797934837,729,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-9,text,true,,701589,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,130,0,0
+1657797934044,1577,femei-imbracaminte-camasi,200,OK,Fashion Days 1-5,text,false,"The operation lasted too long: It took 1,577 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860884,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,159,0,0
+1657797934044,160,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,563,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,159,0,0
+1657797934204,1417,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-5,text,true,,860321,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,99,0,0
+1657797934825,1179,femei-imbracaminte-camasi,200,OK,Fashion Days 1-8,text,false,"The operation lasted too long: It took 1,179 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860900,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,121,0,0
+1657797934825,121,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,121,0,0
+1657797934946,1058,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-8,text,true,,860336,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,203,0,0
+1657797935567,647,cizme de piele,200,OK,Fashion Days 1-9,text,true,,267602,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,116,0,0
+1657797935567,116,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,116,0,0
+1657797935683,531,cizme de piele-1,200,OK,Fashion Days 1-9,text,true,,266967,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,257,0,0
+1657797935266,1020,femei-incaltaminte-cizme,200,OK,Fashion Days 1-10,text,false,"The operation lasted too long: It took 1,020 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702153,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,223,0,0
+1657797935266,223,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,223,0,0
+1657797935489,797,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-10,text,true,,701590,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,159,0,0
+1657797934793,1619,femei-imbracaminte-camasi,200,OK,Fashion Days 1-3,text,false,"The operation lasted too long: It took 1,619 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860867,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,136,0,0
+1657797934793,136,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,136,0,0
+1657797934929,1483,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-3,text,true,,860303,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,253,0,0
+1657797934801,1692,femei-imbracaminte-camasi,200,OK,Fashion Days 1-6,text,false,"The operation lasted too long: It took 1,692 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860895,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,128,0,0
+1657797934801,128,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,128,0,0
+1657797934929,1564,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-6,text,true,,860331,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,284,0,0
+1657797935313,1229,femei-imbracaminte-camasi,200,OK,Fashion Days 1-7,text,false,"The operation lasted too long: It took 1,229 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860905,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,187,0,0
+1657797935313,187,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,187,0,0
+1657797935501,1041,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-7,text,true,,860341,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,219,0,0
+1657797934742,2109,femei-imbracaminte-camasi,200,OK,Fashion Days 1-1,text,false,"The operation lasted too long: It took 2,109 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860891,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,171,0,0
+1657797934742,171,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,563,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,171,0,0
+1657797934913,1938,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-1,text,true,,860328,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,144,0,0
+1657797936215,643,homepage,200,OK,Fashion Days 1-9,text,true,,234234,242,10,10,https://www.fashiondays.ro/,188,0,0
+1657797936215,189,homepage-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,536,119,10,10,https://fashiondays.ro/,188,0,0
+1657797936404,454,homepage-1,200,OK,Fashion Days 1-9,text,true,,233698,123,10,10,https://www.fashiondays.ro/,244,0,0
+1657797936287,634,cizme de piele,200,OK,Fashion Days 1-10,text,true,,267578,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,213,0,0
+1657797936287,213,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,213,0,0
+1657797936500,421,cizme de piele-1,200,OK,Fashion Days 1-10,text,true,,266942,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,186,0,0
+1657797936005,1156,femei-incaltaminte-cizme,200,OK,Fashion Days 1-8,text,false,"The operation lasted too long: It took 1,156 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702167,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,214,0,0
+1657797936005,214,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,214,0,0
+1657797936219,942,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-8,text,true,,701605,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,188,0,0
+1657797936543,780,femei-incaltaminte-cizme,200,OK,Fashion Days 1-7,text,true,,702159,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,174,0,0
+1657797936543,174,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,174,0,0
+1657797936717,606,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-7,text,true,,701597,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,202,0,0
+1657797936859,498,cart,200,OK,Fashion Days 1-9,text,true,,158223,316,10,10,https://www.fashiondays.ro/cart/,225,0,0
+1657797936859,225,cart-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,501,124,10,10,https://fashiondays.ro/cart/,225,0,0
+1657797937085,272,cart-1,200,OK,Fashion Days 1-9,text,true,,157722,192,10,10,https://www.fashiondays.ro/cart/,236,0,0
+1657797935519,1897,femei-imbracaminte-camasi,200,OK,Fashion Days 1-2,text,false,"The operation lasted too long: It took 1,897 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860907,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,125,0,0
+1657797935519,125,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,125,0,0
+1657797935644,1772,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-2,text,true,,860343,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,161,0,0
+1657797935524,1916,femei-imbracaminte-camasi,200,OK,Fashion Days 1-4,text,false,"The operation lasted too long: It took 1,916 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860910,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,120,0,0
+1657797935524,120,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,120,0,0
+1657797935644,1796,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-4,text,true,,860346,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,208,0,0
+1657797936922,566,homepage,200,OK,Fashion Days 1-10,text,true,,234257,242,10,10,https://www.fashiondays.ro/,194,0,0
+1657797936922,194,homepage-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,536,119,10,10,https://fashiondays.ro/,194,0,0
+1657797937116,372,homepage-1,200,OK,Fashion Days 1-10,text,true,,233721,123,10,10,https://www.fashiondays.ro/,258,0,0
+1657797936413,1149,femei-incaltaminte-cizme,200,OK,Fashion Days 1-3,text,false,"The operation lasted too long: It took 1,149 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702166,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,181,0,0
+1657797936413,181,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,181,0,0
+1657797936595,967,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-3,text,true,,701603,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,211,0,0
+1657797936494,1136,femei-incaltaminte-cizme,200,OK,Fashion Days 1-6,text,false,"The operation lasted too long: It took 1,136 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702163,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,152,0,0
+1657797936494,152,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,152,0,0
+1657797936647,983,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-6,text,true,,701600,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,208,0,0
+1657797937357,296,wishlist,200,OK,Fashion Days 1-9,text,true,,156555,322,10,10,https://www.fashiondays.ro/wishlist,115,0,0
+1657797937357,115,wishlist-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,115,0,0
+1657797937472,181,wishlist-1,200,OK,Fashion Days 1-9,text,true,,156011,195,10,10,https://www.fashiondays.ro/wishlist,155,0,0
+1657797937324,375,cizme de piele,200,OK,Fashion Days 1-7,text,true,,267580,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,141,0,0
+1657797937324,141,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,141,0,0
+1657797937465,234,cizme de piele-1,200,OK,Fashion Days 1-7,text,true,,266945,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,91,0,0
+1657797937162,556,cizme de piele,200,OK,Fashion Days 1-8,text,true,,267578,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,251,0,0
+1657797937162,251,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,251,0,0
+1657797937413,305,cizme de piele-1,200,OK,Fashion Days 1-8,text,true,,266942,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,155,0,0
+1657797935622,2110,femei-incaltaminte-cizme,200,OK,Fashion Days 1-5,text,false,"The operation lasted too long: It took 2,110 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702171,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,124,0,0
+1657797935622,124,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,124,0,0
+1657797935746,1986,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-5,text,true,,701608,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,271,0,0
+1657797937489,254,cart,200,OK,Fashion Days 1-10,text,true,,158203,316,10,10,https://www.fashiondays.ro/cart/,58,0,0
+1657797937489,58,cart-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,501,124,10,10,https://fashiondays.ro/cart/,58,0,0
+1657797937547,196,cart-1,200,OK,Fashion Days 1-10,text,true,,157702,192,10,10,https://www.fashiondays.ro/cart/,165,0,0
+1657797937743,248,wishlist,200,OK,Fashion Days 1-10,text,true,,156540,322,10,10,https://www.fashiondays.ro/wishlist,39,0,0
+1657797937743,39,wishlist-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,39,0,0
+1657797937783,208,wishlist-1,200,OK,Fashion Days 1-10,text,true,,155997,195,10,10,https://www.fashiondays.ro/wishlist,178,0,0
+1657797937563,488,cizme de piele,200,OK,Fashion Days 1-3,text,true,,267597,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,143,0,0
+1657797937563,143,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,143,0,0
+1657797937706,345,cizme de piele-1,200,OK,Fashion Days 1-3,text,true,,266962,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,81,0,0
+1657797936852,1201,femei-incaltaminte-cizme,200,OK,Fashion Days 1-1,text,false,"The operation lasted too long: It took 1,201 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702147,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,232,0,0
+1657797936852,232,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,232,0,0
+1657797937085,968,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-1,text,true,,701584,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,198,0,0
+1657797937631,432,cizme de piele,200,OK,Fashion Days 1-6,text,true,,267581,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,76,0,0
+1657797937631,76,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,76,0,0
+1657797937707,356,cizme de piele-1,200,OK,Fashion Days 1-6,text,true,,266946,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,95,0,0
+1657797937700,455,homepage,200,OK,Fashion Days 1-7,text,true,,234240,242,10,10,https://www.fashiondays.ro/,73,0,0
+1657797937700,73,homepage-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,536,119,10,10,https://fashiondays.ro/,73,0,0
+1657797937773,382,homepage-1,200,OK,Fashion Days 1-7,text,true,,233704,123,10,10,https://www.fashiondays.ro/,275,0,0
+1657797937719,448,homepage,200,OK,Fashion Days 1-8,text,true,,234254,242,10,10,https://www.fashiondays.ro/,63,0,0
+1657797937719,63,homepage-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,536,119,10,10,https://fashiondays.ro/,63,0,0
+1657797937783,384,homepage-1,200,OK,Fashion Days 1-8,text,true,,233718,123,10,10,https://www.fashiondays.ro/,237,0,0
+1657797937654,569,femei-imbracaminte-camasi,200,OK,Fashion Days 1-9,text,true,,860868,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,91,0,0
+1657797937654,91,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,91,0,0
+1657797937746,477,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-9,text,true,,860304,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,96,0,0
+1657797937417,813,femei-incaltaminte-cizme,200,OK,Fashion Days 1-2,text,true,,702155,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,128,0,0
+1657797937417,128,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,128,0,0
+1657797937546,684,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-2,text,true,,701593,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,136,0,0
+1657797937442,826,femei-incaltaminte-cizme,200,OK,Fashion Days 1-4,text,true,,702162,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,104,0,0
+1657797937442,104,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,104,0,0
+1657797937546,722,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-4,text,true,,701600,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,125,0,0
+1657797937733,551,cizme de piele,200,OK,Fashion Days 1-5,text,true,,267577,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,49,0,0
+1657797937733,49,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,49,0,0
+1657797937783,501,cizme de piele-1,200,OK,Fashion Days 1-5,text,true,,266941,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,148,0,0
+1657797938052,347,homepage,200,OK,Fashion Days 1-3,text,true,,234234,242,10,10,https://www.fashiondays.ro/,99,0,0
+1657797938052,99,homepage-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,535,119,10,10,https://fashiondays.ro/,99,0,0
+1657797938151,248,homepage-1,200,OK,Fashion Days 1-3,text,true,,233699,123,10,10,https://www.fashiondays.ro/,132,0,0
+1657797938064,381,homepage,200,OK,Fashion Days 1-6,text,true,,234246,242,10,10,https://www.fashiondays.ro/,89,0,0
+1657797938064,89,homepage-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,536,119,10,10,https://fashiondays.ro/,89,0,0
+1657797938153,292,homepage-1,200,OK,Fashion Days 1-6,text,true,,233710,123,10,10,https://www.fashiondays.ro/,167,0,0
+1657797938167,342,cart,200,OK,Fashion Days 1-8,text,true,,158203,316,10,10,https://www.fashiondays.ro/cart/,91,0,0
+1657797938167,91,cart-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,501,124,10,10,https://fashiondays.ro/cart/,91,0,0
+1657797938258,251,cart-1,200,OK,Fashion Days 1-8,text,true,,157702,192,10,10,https://www.fashiondays.ro/cart/,218,0,0
+1657797938155,387,cart,200,OK,Fashion Days 1-7,text,true,,158207,316,10,10,https://www.fashiondays.ro/cart/,75,0,0
+1657797938155,75,cart-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,501,124,10,10,https://fashiondays.ro/cart/,75,0,0
+1657797938230,312,cart-1,200,OK,Fashion Days 1-7,text,true,,157706,192,10,10,https://www.fashiondays.ro/cart/,282,0,0
+1657797938054,543,cizme de piele,200,OK,Fashion Days 1-1,text,true,,267584,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,97,0,0
+1657797938054,98,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,97,0,0
+1657797938152,445,cizme de piele-1,200,OK,Fashion Days 1-1,text,true,,266949,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,103,0,0
+1657797937992,674,femei-imbracaminte-camasi,200,OK,Fashion Days 1-10,text,true,,860898,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,133,0,0
+1657797937992,133,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,563,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,133,0,0
+1657797938125,541,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-10,text,true,,860335,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,110,0,0
+1657797938231,445,cizme de piele,200,OK,Fashion Days 1-2,text,true,,267577,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,113,0,0
+1657797938231,113,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,113,0,0
+1657797938345,331,cizme de piele-1,200,OK,Fashion Days 1-2,text,true,,266941,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,180,0,0
+1657797938224,464,femei-incaltaminte-cizme,200,OK,Fashion Days 1-9,text,true,,702164,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,90,0,0
+1657797938224,90,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,90,0,0
+1657797938314,374,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-9,text,true,,701602,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,83,0,0
+1657797938269,431,cizme de piele,200,OK,Fashion Days 1-4,text,true,,267582,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,107,0,0
+1657797938269,107,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,107,0,0
+1657797938376,324,cizme de piele-1,200,OK,Fashion Days 1-4,text,true,,266946,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,180,0,0
+1657797938510,211,wishlist,200,OK,Fashion Days 1-8,text,true,,156534,322,10,10,https://www.fashiondays.ro/wishlist,100,0,0
+1657797938510,100,wishlist-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,100,0,0
+1657797938610,111,wishlist-1,200,OK,Fashion Days 1-8,text,true,,155990,195,10,10,https://www.fashiondays.ro/wishlist,84,0,0
+1657797938543,198,wishlist,200,OK,Fashion Days 1-7,text,true,,167145,322,10,10,https://www.fashiondays.ro/wishlist,84,0,0
+1657797938543,84,wishlist-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,84,0,0
+1657797938627,114,wishlist-1,200,OK,Fashion Days 1-7,text,true,,166601,195,10,10,https://www.fashiondays.ro/wishlist,91,0,0
+1657797938400,382,cart,200,OK,Fashion Days 1-3,text,true,,168771,316,10,10,https://www.fashiondays.ro/cart/,153,0,0
+1657797938400,153,cart-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,501,124,10,10,https://fashiondays.ro/cart/,153,0,0
+1657797938553,229,cart-1,200,OK,Fashion Days 1-3,text,true,,168270,192,10,10,https://www.fashiondays.ro/cart/,183,0,0
+1657797938447,342,cart,200,OK,Fashion Days 1-6,text,true,,158228,316,10,10,https://www.fashiondays.ro/cart/,149,0,0
+1657797938447,149,cart-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,501,124,10,10,https://fashiondays.ro/cart/,149,0,0
+1657797938596,193,cart-1,200,OK,Fashion Days 1-6,text,true,,157727,192,10,10,https://www.fashiondays.ro/cart/,161,0,0
+1657797938285,554,homepage,200,OK,Fashion Days 1-5,text,true,,234278,242,10,10,https://www.fashiondays.ro/,92,0,0
+1657797938285,92,homepage-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,536,119,10,10,https://fashiondays.ro/,92,0,0
+1657797938377,462,homepage-1,200,OK,Fashion Days 1-5,text,true,,233742,123,10,10,https://www.fashiondays.ro/,225,0,0
+1657797938689,195,cizme de piele,200,OK,Fashion Days 1-9,text,true,,267574,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,64,0,0
+1657797938689,64,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,64,0,0
+1657797938753,131,cizme de piele-1,200,OK,Fashion Days 1-9,text,true,,266939,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,67,0,0
+1657797938597,394,homepage,200,OK,Fashion Days 1-1,text,true,,234268,242,10,10,https://www.fashiondays.ro/,76,0,0
+1657797938597,76,homepage-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,536,119,10,10,https://fashiondays.ro/,76,0,0
+1657797938673,318,homepage-1,200,OK,Fashion Days 1-1,text,true,,233732,123,10,10,https://www.fashiondays.ro/,138,0,0
+1657797938677,402,homepage,200,OK,Fashion Days 1-2,text,true,,234245,242,10,10,https://www.fashiondays.ro/,76,0,0
+1657797938677,76,homepage-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,535,119,10,10,https://fashiondays.ro/,76,0,0
+1657797938753,326,homepage-1,200,OK,Fashion Days 1-2,text,true,,233710,123,10,10,https://www.fashiondays.ro/,155,0,0
+1657797938666,456,femei-incaltaminte-cizme,200,OK,Fashion Days 1-10,text,true,,702163,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,83,0,0
+1657797938666,83,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,83,0,0
+1657797938749,373,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-10,text,true,,701601,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,41,0,0
+1657797938782,378,wishlist,200,OK,Fashion Days 1-3,text,true,,156532,322,10,10,https://www.fashiondays.ro/wishlist,83,0,0
+1657797938782,83,wishlist-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,83,0,0
+1657797938865,295,wishlist-1,200,OK,Fashion Days 1-3,text,true,,155989,195,10,10,https://www.fashiondays.ro/wishlist,156,0,0
+1657797938789,377,wishlist,200,OK,Fashion Days 1-6,text,true,,156532,322,10,10,https://www.fashiondays.ro/wishlist,76,0,0
+1657797938789,76,wishlist-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,76,0,0
+1657797938865,301,wishlist-1,200,OK,Fashion Days 1-6,text,true,,155988,195,10,10,https://www.fashiondays.ro/wishlist,179,0,0
+1657797938701,535,homepage,200,OK,Fashion Days 1-4,text,true,,234250,242,10,10,https://www.fashiondays.ro/,73,0,0
+1657797938701,73,homepage-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,536,119,10,10,https://fashiondays.ro/,73,0,0
+1657797938774,462,homepage-1,200,OK,Fashion Days 1-4,text,true,,233714,123,10,10,https://www.fashiondays.ro/,213,0,0
+1657797938742,532,femei-imbracaminte-camasi,200,OK,Fashion Days 1-7,text,true,,860902,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,34,0,0
+1657797938742,34,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,34,0,0
+1657797938776,498,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-7,text,true,,860338,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,123,0,0
+1657797938885,389,homepage,200,OK,Fashion Days 1-9,text,true,,234217,242,10,10,https://www.fashiondays.ro/,122,0,0
+1657797938885,122,homepage-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,536,119,10,10,https://fashiondays.ro/,122,0,0
+1657797939007,267,homepage-1,200,OK,Fashion Days 1-9,text,true,,233681,123,10,10,https://www.fashiondays.ro/,190,0,0
+1657797938840,519,cart,200,OK,Fashion Days 1-5,text,true,,158203,316,10,10,https://www.fashiondays.ro/cart/,114,0,0
+1657797938840,114,cart-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,501,124,10,10,https://fashiondays.ro/cart/,114,0,0
+1657797938954,405,cart-1,200,OK,Fashion Days 1-5,text,true,,157702,192,10,10,https://www.fashiondays.ro/cart/,213,0,0
+1657797938722,647,femei-imbracaminte-camasi,200,OK,Fashion Days 1-8,text,true,,860905,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,52,0,0
+1657797938722,53,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,52,0,0
+1657797938775,594,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-8,text,true,,860341,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,108,0,0
+1657797938992,410,cart,200,OK,Fashion Days 1-1,text,true,,158201,316,10,10,https://www.fashiondays.ro/cart/,148,0,0
+1657797938992,149,cart-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,501,124,10,10,https://fashiondays.ro/cart/,148,0,0
+1657797939141,261,cart-1,200,OK,Fashion Days 1-1,text,true,,157700,192,10,10,https://www.fashiondays.ro/cart/,156,0,0
+1657797939123,384,cizme de piele,200,OK,Fashion Days 1-10,text,true,,267581,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,103,0,0
+1657797939123,103,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,103,0,0
+1657797939226,281,cizme de piele-1,200,OK,Fashion Days 1-10,text,true,,266946,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,88,0,0
+1657797939080,616,cart,200,OK,Fashion Days 1-2,text,true,,158195,316,10,10,https://www.fashiondays.ro/cart/,112,0,0
+1657797939080,112,cart-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,501,124,10,10,https://fashiondays.ro/cart/,112,0,0
+1657797939192,504,cart-1,200,OK,Fashion Days 1-2,text,true,,157694,192,10,10,https://www.fashiondays.ro/cart/,253,0,0
+1657797939275,453,cart,200,OK,Fashion Days 1-9,text,true,,158193,316,10,10,https://www.fashiondays.ro/cart/,90,0,0
+1657797939275,90,cart-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,501,124,10,10,https://fashiondays.ro/cart/,90,0,0
+1657797939365,363,cart-1,200,OK,Fashion Days 1-9,text,true,,157692,192,10,10,https://www.fashiondays.ro/cart/,325,0,0
+1657797939237,643,cart,200,OK,Fashion Days 1-4,text,true,,158203,316,10,10,https://www.fashiondays.ro/cart/,51,0,0
+1657797939237,51,cart-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,503,124,10,10,https://fashiondays.ro/cart/,51,0,0
+1657797939288,592,cart-1,200,OK,Fashion Days 1-4,text,true,,157700,192,10,10,https://www.fashiondays.ro/cart/,331,0,0
+1657797939275,756,femei-incaltaminte-cizme,200,OK,Fashion Days 1-7,text,true,,702161,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,90,0,0
+1657797939275,90,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,90,0,0
+1657797939366,665,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-7,text,true,,701599,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,182,0,0
+1657797939402,658,wishlist,200,OK,Fashion Days 1-1,text,true,,156548,322,10,10,https://www.fashiondays.ro/wishlist,211,0,0
+1657797939402,211,wishlist-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,211,0,0
+1657797939613,447,wishlist-1,200,OK,Fashion Days 1-1,text,true,,156005,195,10,10,https://www.fashiondays.ro/wishlist,272,0,0
+1657797939360,737,wishlist,200,OK,Fashion Days 1-5,text,true,,156550,322,10,10,https://www.fashiondays.ro/wishlist,135,0,0
+1657797939360,135,wishlist-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,135,0,0
+1657797939495,602,wishlist-1,200,OK,Fashion Days 1-5,text,true,,156006,195,10,10,https://www.fashiondays.ro/wishlist,227,0,0
+1657797939508,672,homepage,200,OK,Fashion Days 1-10,text,true,,244851,242,10,10,https://www.fashiondays.ro/,200,0,0
+1657797939508,200,homepage-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,536,119,10,10,https://fashiondays.ro/,200,0,0
+1657797939709,471,homepage-1,200,OK,Fashion Days 1-10,text,true,,244315,123,10,10,https://www.fashiondays.ro/,283,0,0
+1657797939697,568,wishlist,200,OK,Fashion Days 1-2,text,true,,156557,322,10,10,https://www.fashiondays.ro/wishlist,219,0,0
+1657797939697,219,wishlist-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,219,0,0
+1657797939916,349,wishlist-1,200,OK,Fashion Days 1-2,text,true,,156013,195,10,10,https://www.fashiondays.ro/wishlist,179,0,0
+1657797939729,538,wishlist,200,OK,Fashion Days 1-9,text,true,,156532,322,10,10,https://www.fashiondays.ro/wishlist,204,0,0
+1657797939729,204,wishlist-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,204,0,0
+1657797939934,333,wishlist-1,200,OK,Fashion Days 1-9,text,true,,155989,195,10,10,https://www.fashiondays.ro/wishlist,292,0,0
+1657797939161,1210,femei-imbracaminte-camasi,200,OK,Fashion Days 1-3,text,false,"The operation lasted too long: It took 1,210 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860906,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,103,0,0
+1657797939161,103,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,103,0,0
+1657797939265,1106,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-3,text,true,,860342,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,108,0,0
+1657797939370,1015,femei-incaltaminte-cizme,200,OK,Fashion Days 1-8,text,false,"The operation lasted too long: It took 1,015 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702172,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,175,0,0
+1657797939370,175,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,562,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,175,0,0
+1657797939546,839,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-8,text,true,,701610,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,207,0,0
+1657797939880,594,wishlist,200,OK,Fashion Days 1-4,text,true,,156526,322,10,10,https://www.fashiondays.ro/wishlist,192,0,0
+1657797939880,192,wishlist-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,192,0,0
+1657797940073,401,wishlist-1,200,OK,Fashion Days 1-4,text,true,,155983,195,10,10,https://www.fashiondays.ro/wishlist,201,0,0
+1657797940032,481,cizme de piele,200,OK,Fashion Days 1-7,text,true,,267583,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,212,0,0
+1657797940032,212,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,212,0,0
+1657797940246,267,cizme de piele-1,200,OK,Fashion Days 1-7,text,true,,266947,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,150,0,0
+1657797939166,1348,femei-imbracaminte-camasi,200,OK,Fashion Days 1-6,text,false,"The operation lasted too long: It took 1,348 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860893,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,98,0,0
+1657797939166,98,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,98,0,0
+1657797939264,1250,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-6,text,true,,860329,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,142,0,0
+1657797940182,388,cart,200,OK,Fashion Days 1-10,text,true,,158226,316,10,10,https://www.fashiondays.ro/cart/,143,0,0
+1657797940182,143,cart-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,501,124,10,10,https://fashiondays.ro/cart/,143,0,0
+1657797940325,245,cart-1,200,OK,Fashion Days 1-10,text,true,,157725,192,10,10,https://www.fashiondays.ro/cart/,223,0,0
+1657797940387,603,cizme de piele,200,OK,Fashion Days 1-8,text,true,,267576,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,124,0,0
+1657797940387,124,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,124,0,0
+1657797940511,479,cizme de piele-1,200,OK,Fashion Days 1-8,text,true,,266941,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,197,0,0
+1657797940571,520,wishlist,200,OK,Fashion Days 1-10,text,true,,156539,322,10,10,https://www.fashiondays.ro/wishlist,192,0,0
+1657797940571,192,wishlist-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,543,127,10,10,https://fashiondays.ro/wishlist,192,0,0
+1657797940763,328,wishlist-1,200,OK,Fashion Days 1-10,text,true,,155996,195,10,10,https://www.fashiondays.ro/wishlist,294,0,0
+1657797940514,672,homepage,200,OK,Fashion Days 1-7,text,true,,234266,242,10,10,https://www.fashiondays.ro/,124,0,0
+1657797940514,124,homepage-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,535,119,10,10,https://fashiondays.ro/,124,0,0
+1657797940638,548,homepage-1,200,OK,Fashion Days 1-7,text,true,,233731,123,10,10,https://www.fashiondays.ro/,335,0,0
+1657797940269,955,femei-imbracaminte-camasi,200,OK,Fashion Days 1-9,text,true,,860895,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,115,0,0
+1657797940269,115,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,563,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,115,0,0
+1657797940384,840,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-9,text,true,,860332,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,188,0,0
+1657797940267,1345,femei-imbracaminte-camasi,200,OK,Fashion Days 1-2,text,false,"The operation lasted too long: It took 1,345 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860901,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,115,0,0
+1657797940267,115,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,563,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,115,0,0
+1657797940382,1230,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-2,text,true,,860338,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,139,0,0
+1657797941187,609,cart,200,OK,Fashion Days 1-7,text,true,,158205,316,10,10,https://www.fashiondays.ro/cart/,259,0,0
+1657797941187,259,cart-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,501,124,10,10,https://fashiondays.ro/cart/,259,0,0
+1657797941446,350,cart-1,200,OK,Fashion Days 1-7,text,true,,157704,192,10,10,https://www.fashiondays.ro/cart/,296,0,0
+1657797940991,847,homepage,200,OK,Fashion Days 1-8,text,true,,234147,242,10,10,https://www.fashiondays.ro/,195,0,0
+1657797940991,195,homepage-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,536,119,10,10,https://fashiondays.ro/,195,0,0
+1657797941187,651,homepage-1,200,OK,Fashion Days 1-8,text,true,,233611,123,10,10,https://www.fashiondays.ro/,352,0,0
+1657797940374,1826,femei-incaltaminte-cizme,200,OK,Fashion Days 1-3,text,false,"The operation lasted too long: It took 1,826 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702158,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,137,0,0
+1657797940374,137,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,137,0,0
+1657797940511,1689,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-3,text,true,,701595,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,140,0,0
+1657797940515,1940,femei-incaltaminte-cizme,200,OK,Fashion Days 1-6,text,false,"The operation lasted too long: It took 1,940 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702150,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,123,0,0
+1657797940515,123,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,123,0,0
+1657797940638,1817,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-6,text,true,,701587,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,241,0,0
+1657797941797,749,wishlist,200,OK,Fashion Days 1-7,text,true,,156533,322,10,10,https://www.fashiondays.ro/wishlist,334,0,0
+1657797941797,334,wishlist-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,334,0,0
+1657797942131,415,wishlist-1,200,OK,Fashion Days 1-7,text,true,,155989,195,10,10,https://www.fashiondays.ro/wishlist,381,0,0
+1657797940062,2509,femei-imbracaminte-camasi,200,OK,Fashion Days 1-1,text,false,"The operation lasted too long: It took 2,509 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860901,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,183,0,0
+1657797940062,183,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,183,0,0
+1657797940246,2325,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-1,text,true,,860337,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,203,0,0
+1657797941840,801,cart,200,OK,Fashion Days 1-8,text,true,,158186,316,10,10,https://www.fashiondays.ro/cart/,348,0,0
+1657797941840,348,cart-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,501,124,10,10,https://fashiondays.ro/cart/,348,0,0
+1657797942189,452,cart-1,200,OK,Fashion Days 1-8,text,true,,157685,192,10,10,https://www.fashiondays.ro/cart/,429,0,0
+1657797941225,1416,femei-incaltaminte-cizme,200,OK,Fashion Days 1-9,text,false,"The operation lasted too long: It took 1,416 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702173,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,221,0,0
+1657797941225,221,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,221,0,0
+1657797941447,1194,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-9,text,true,,701610,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,203,0,0
+1657797941093,1550,femei-imbracaminte-camasi,200,OK,Fashion Days 1-10,text,false,"The operation lasted too long: It took 1,550 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860894,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,200,0,0
+1657797941093,200,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,200,0,0
+1657797941293,1350,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-10,text,true,,860330,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,196,0,0
+1657797940475,2246,femei-imbracaminte-camasi,200,OK,Fashion Days 1-4,text,false,"The operation lasted too long: It took 2,246 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860902,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,146,0,0
+1657797940475,146,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,564,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,146,0,0
+1657797940621,2100,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-4,text,true,,860338,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,305,0,0
+1657797941613,1140,femei-incaltaminte-cizme,200,OK,Fashion Days 1-2,text,false,"The operation lasted too long: It took 1,140 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702169,360,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,289,0,0
+1657797941613,289,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,563,146,10,10,https://fashiondays.ro/g/femei-/incaltaminte-cizme,289,0,0
+1657797941902,851,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-2,text,true,,701606,214,10,10,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,354,0,0
+1657797942200,853,cizme de piele,200,OK,Fashion Days 1-3,text,true,,267582,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,343,0,0
+1657797942200,343,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,343,0,0
+1657797942544,509,cizme de piele-1,200,OK,Fashion Days 1-3,text,true,,266946,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,148,0,0
+1657797940098,2961,femei-imbracaminte-camasi,200,OK,Fashion Days 1-5,text,false,"The operation lasted too long: It took 2,961 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860899,362,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,160,0,0
+1657797940098,160,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,563,147,10,10,https://fashiondays.ro/g/femei-/imbracaminte-camasi,160,0,0
+1657797940258,2801,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-5,text,true,,860336,215,10,10,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,215,0,0
+1657797942456,608,cizme de piele,200,OK,Fashion Days 1-6,text,true,,267577,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,187,0,0
+1657797942456,187,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,636,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,187,0,0
+1657797942644,420,cizme de piele-1,200,OK,Fashion Days 1-6,text,true,,266941,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,76,0,0
+1657797942641,450,wishlist,200,OK,Fashion Days 1-8,text,true,,156541,322,10,10,https://www.fashiondays.ro/wishlist,74,0,0
+1657797942641,75,wishlist-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,544,127,10,10,https://fashiondays.ro/wishlist,74,0,0
+1657797942716,375,wishlist-1,200,OK,Fashion Days 1-8,text,true,,155997,195,10,10,https://www.fashiondays.ro/wishlist,286,0,0
+1657797942642,462,cizme de piele,200,OK,Fashion Days 1-9,text,true,,267573,506,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,75,0,0
+1657797942642,75,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-9,text,true,,635,219,10,10,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,75,0,0
+1657797942717,387,cizme de piele-1,200,OK,Fashion Days 1-9,text,true,,266938,287,10,10,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,164,0,0
+1657797942754,542,cizme de piele,200,OK,Fashion Days 1-2,text,true,,267572,506,9,9,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,277,0,0
+1657797942754,277,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,636,219,9,9,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,277,0,0
+1657797943032,264,cizme de piele-1,200,OK,Fashion Days 1-2,text,true,,266936,287,9,9,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,137,0,0
+1657797942644,708,femei-incaltaminte-cizme,200,OK,Fashion Days 1-10,text,true,,702172,360,9,9,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,74,0,0
+1657797942644,74,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,563,146,9,9,https://fashiondays.ro/g/femei-/incaltaminte-cizme,74,0,0
+1657797942718,634,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-10,text,true,,701609,214,9,9,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,125,0,0
+1657797943054,612,homepage,200,OK,Fashion Days 1-3,text,true,,234257,242,9,9,https://www.fashiondays.ro/,106,0,0
+1657797943054,106,homepage-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,536,119,9,9,https://fashiondays.ro/,106,0,0
+1657797943161,505,homepage-1,200,OK,Fashion Days 1-3,text,true,,233721,123,9,9,https://www.fashiondays.ro/,190,0,0
+1657797943065,711,homepage,200,OK,Fashion Days 1-6,text,true,,234247,242,9,9,https://www.fashiondays.ro/,139,0,0
+1657797943065,140,homepage-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,536,119,9,9,https://fashiondays.ro/,139,0,0
+1657797943205,571,homepage-1,200,OK,Fashion Days 1-6,text,true,,233711,123,9,9,https://www.fashiondays.ro/,269,0,0
+1657797942547,1242,femei-imbracaminte-camasi,200,OK,Fashion Days 1-7,text,false,"The operation lasted too long: It took 1,242 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860883,362,9,9,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,109,0,0
+1657797942547,109,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,564,147,9,9,https://fashiondays.ro/g/femei-/imbracaminte-camasi,109,0,0
+1657797942656,1133,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-7,text,true,,860319,215,9,9,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,268,0,0
+1657797943353,805,cizme de piele,200,OK,Fashion Days 1-10,text,true,,267596,506,9,9,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,309,0,0
+1657797943353,309,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-10,text,true,,636,219,9,9,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,309,0,0
+1657797943663,495,cizme de piele-1,200,OK,Fashion Days 1-10,text,true,,266960,287,9,9,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,192,0,0
+1657797943298,930,homepage,200,OK,Fashion Days 1-2,text,true,,234220,242,8,8,https://www.fashiondays.ro/,352,0,0
+1657797943298,352,homepage-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,535,119,8,8,https://fashiondays.ro/,352,0,0
+1657797943651,577,homepage-1,200,OK,Fashion Days 1-2,text,true,,233685,123,8,8,https://www.fashiondays.ro/,316,0,0
+1657797943667,674,cart,200,OK,Fashion Days 1-3,text,true,,158187,316,8,8,https://www.fashiondays.ro/cart/,186,0,0
+1657797943667,186,cart-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,501,124,8,8,https://fashiondays.ro/cart/,186,0,0
+1657797943853,488,cart-1,200,OK,Fashion Days 1-3,text,true,,157686,192,8,8,https://www.fashiondays.ro/cart/,328,0,0
+1657797942572,1793,femei-incaltaminte-cizme,200,OK,Fashion Days 1-1,text,false,"The operation lasted too long: It took 1,793 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702170,360,8,8,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,114,0,0
+1657797942572,114,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,562,146,8,8,https://fashiondays.ro/g/femei-/incaltaminte-cizme,114,0,0
+1657797942687,1678,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-1,text,true,,701608,214,8,8,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,132,0,0
+1657797942722,1696,femei-incaltaminte-cizme,200,OK,Fashion Days 1-4,text,false,"The operation lasted too long: It took 1,696 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702163,360,8,8,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,118,0,0
+1657797942722,118,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,562,146,8,8,https://fashiondays.ro/g/femei-/incaltaminte-cizme,118,0,0
+1657797942840,1578,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-4,text,true,,701601,214,8,8,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,265,0,0
+1657797943092,1343,femei-imbracaminte-camasi,200,OK,Fashion Days 1-8,text,false,"The operation lasted too long: It took 1,343 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860907,362,8,8,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,133,0,0
+1657797943092,133,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,564,147,8,8,https://fashiondays.ro/g/femei-/imbracaminte-camasi,133,0,0
+1657797943226,1209,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-8,text,true,,860343,215,8,8,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,221,0,0
+1657797943777,664,cart,200,OK,Fashion Days 1-6,text,true,,168771,316,8,8,https://www.fashiondays.ro/cart/,278,0,0
+1657797943777,278,cart-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,501,124,8,8,https://fashiondays.ro/cart/,278,0,0
+1657797944055,386,cart-1,200,OK,Fashion Days 1-6,text,true,,168270,192,8,8,https://www.fashiondays.ro/cart/,286,0,0
+1657797943790,712,femei-incaltaminte-cizme,200,OK,Fashion Days 1-7,text,true,,702172,360,8,8,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,276,0,0
+1657797943790,276,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,562,146,8,8,https://fashiondays.ro/g/femei-/incaltaminte-cizme,276,0,0
+1657797944066,436,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-7,text,true,,701610,214,8,8,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,207,0,0
+1657797944231,323,cart,200,OK,Fashion Days 1-2,text,true,,158225,316,8,8,https://www.fashiondays.ro/cart/,131,0,0
+1657797944231,131,cart-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,501,124,8,8,https://fashiondays.ro/cart/,131,0,0
+1657797944362,192,cart-1,200,OK,Fashion Days 1-2,text,true,,157724,192,8,8,https://www.fashiondays.ro/cart/,152,0,0
+1657797944341,251,wishlist,200,OK,Fashion Days 1-3,text,true,,156541,322,8,8,https://www.fashiondays.ro/wishlist,92,0,0
+1657797944341,92,wishlist-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,543,127,8,8,https://fashiondays.ro/wishlist,92,0,0
+1657797944433,159,wishlist-1,200,OK,Fashion Days 1-3,text,true,,155998,195,8,8,https://www.fashiondays.ro/wishlist,69,0,0
+1657797944441,339,wishlist,200,OK,Fashion Days 1-6,text,true,,156532,322,8,8,https://www.fashiondays.ro/wishlist,48,0,0
+1657797944441,48,wishlist-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,544,127,8,8,https://fashiondays.ro/wishlist,48,0,0
+1657797944489,291,wishlist-1,200,OK,Fashion Days 1-6,text,true,,155988,195,8,8,https://www.fashiondays.ro/wishlist,169,0,0
+1657797944418,375,cizme de piele,200,OK,Fashion Days 1-4,text,true,,267579,506,8,8,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,63,0,0
+1657797944418,63,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,636,219,8,8,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,63,0,0
+1657797944482,311,cizme de piele-1,200,OK,Fashion Days 1-4,text,true,,266943,287,8,8,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,82,0,0
+1657797944554,347,wishlist,200,OK,Fashion Days 1-2,text,true,,156537,322,8,8,https://www.fashiondays.ro/wishlist,69,0,0
+1657797944554,69,wishlist-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,543,127,8,8,https://fashiondays.ro/wishlist,69,0,0
+1657797944623,278,wishlist-1,200,OK,Fashion Days 1-2,text,true,,155994,195,8,8,https://www.fashiondays.ro/wishlist,240,0,0
+1657797943060,1849,femei-incaltaminte-cizme,200,OK,Fashion Days 1-5,text,false,"The operation lasted too long: It took 1,849 milliseconds, but should not have lasted longer than 1,000 milliseconds.",702165,360,8,8,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,102,0,0
+1657797943060,102,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,563,146,8,8,https://fashiondays.ro/g/femei-/incaltaminte-cizme,102,0,0
+1657797943163,1746,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-5,text,true,,701602,214,8,8,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,140,0,0
+1657797944366,570,cizme de piele,200,OK,Fashion Days 1-1,text,true,,267584,506,8,8,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,93,0,0
+1657797944366,94,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,635,219,8,8,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,93,0,0
+1657797944460,476,cizme de piele-1,200,OK,Fashion Days 1-1,text,true,,266949,287,8,8,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,87,0,0
+1657797944503,437,cizme de piele,200,OK,Fashion Days 1-7,text,true,,267579,506,8,8,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,95,0,0
+1657797944503,95,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-7,text,true,,635,219,8,8,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,95,0,0
+1657797944598,342,cizme de piele-1,200,OK,Fashion Days 1-7,text,true,,266944,287,8,8,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,193,0,0
+1657797944436,573,femei-incaltaminte-cizme,200,OK,Fashion Days 1-8,text,true,,702173,360,7,7,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,53,0,0
+1657797944436,53,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,563,146,7,7,https://fashiondays.ro/g/femei-/incaltaminte-cizme,53,0,0
+1657797944490,519,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-8,text,true,,701610,214,7,7,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,131,0,0
+1657797945010,491,cizme de piele,200,OK,Fashion Days 1-8,text,true,,267582,506,7,7,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,88,0,0
+1657797945010,88,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-8,text,true,,636,219,7,7,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,88,0,0
+1657797945097,404,cizme de piele-1,200,OK,Fashion Days 1-8,text,true,,266946,287,7,7,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,200,0,0
+1657797944794,807,homepage,200,OK,Fashion Days 1-4,text,true,,244893,242,6,6,https://www.fashiondays.ro/,140,0,0
+1657797944794,140,homepage-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,536,119,6,6,https://fashiondays.ro/,140,0,0
+1657797944934,667,homepage-1,200,OK,Fashion Days 1-4,text,true,,244357,123,6,6,https://www.fashiondays.ro/,305,0,0
+1657797944593,1032,femei-imbracaminte-camasi,200,OK,Fashion Days 1-3,text,false,"The operation lasted too long: It took 1,032 milliseconds, but should not have lasted longer than 1,000 milliseconds.",860901,362,6,6,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,60,0,0
+1657797944593,60,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,564,147,6,6,https://fashiondays.ro/g/femei-/imbracaminte-camasi,60,0,0
+1657797944653,972,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-3,text,true,,860337,215,6,6,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,193,0,0
+1657797944902,750,femei-imbracaminte-camasi,200,OK,Fashion Days 1-2,text,true,,860908,362,6,6,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,83,0,0
+1657797944902,83,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,564,147,6,6,https://fashiondays.ro/g/femei-/imbracaminte-camasi,83,0,0
+1657797944985,667,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-2,text,true,,860344,215,6,6,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,128,0,0
+1657797944937,750,homepage,200,OK,Fashion Days 1-1,text,true,,234267,242,6,6,https://www.fashiondays.ro/,51,0,0
+1657797944937,51,homepage-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,535,119,6,6,https://fashiondays.ro/,51,0,0
+1657797944988,699,homepage-1,200,OK,Fashion Days 1-1,text,true,,233732,123,6,6,https://www.fashiondays.ro/,272,0,0
+1657797944910,780,cizme de piele,200,OK,Fashion Days 1-5,text,true,,267580,506,6,6,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,78,0,0
+1657797944910,78,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,635,219,6,6,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,78,0,0
+1657797944988,702,cizme de piele-1,200,OK,Fashion Days 1-5,text,true,,266945,287,6,6,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,114,0,0
+1657797944781,945,femei-imbracaminte-camasi,200,OK,Fashion Days 1-6,text,true,,860908,362,6,6,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,152,0,0
+1657797944781,152,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,564,147,6,6,https://fashiondays.ro/g/femei-/imbracaminte-camasi,152,0,0
+1657797944933,793,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-6,text,true,,860344,215,6,6,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,80,0,0
+1657797945652,310,femei-incaltaminte-cizme,200,OK,Fashion Days 1-2,text,true,,702162,360,6,6,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,54,0,0
+1657797945652,54,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,563,146,6,6,https://fashiondays.ro/g/femei-/incaltaminte-cizme,54,0,0
+1657797945707,255,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-2,text,true,,701599,214,6,6,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,16,0,0
+1657797945601,413,cart,200,OK,Fashion Days 1-4,text,true,,158213,316,6,6,https://www.fashiondays.ro/cart/,77,0,0
+1657797945601,77,cart-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,503,124,6,6,https://fashiondays.ro/cart/,77,0,0
+1657797945678,336,cart-1,200,OK,Fashion Days 1-4,text,true,,157710,192,6,6,https://www.fashiondays.ro/cart/,214,0,0
+1657797945687,453,cart,200,OK,Fashion Days 1-1,text,true,,158195,316,6,6,https://www.fashiondays.ro/cart/,33,0,0
+1657797945687,33,cart-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,501,124,6,6,https://fashiondays.ro/cart/,33,0,0
+1657797945721,419,cart-1,200,OK,Fashion Days 1-1,text,true,,157694,192,6,6,https://www.fashiondays.ro/cart/,303,0,0
+1657797945625,518,femei-incaltaminte-cizme,200,OK,Fashion Days 1-3,text,true,,702141,360,6,6,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,81,0,0
+1657797945625,81,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,562,146,6,6,https://fashiondays.ro/g/femei-/incaltaminte-cizme,81,0,0
+1657797945707,436,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-3,text,true,,701579,214,6,6,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,15,0,0
+1657797945962,269,cizme de piele,200,OK,Fashion Days 1-2,text,true,,267576,506,6,6,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,94,0,0
+1657797945962,94,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-2,text,true,,635,219,6,6,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,94,0,0
+1657797946056,175,cizme de piele-1,200,OK,Fashion Days 1-2,text,true,,266941,287,6,6,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,85,0,0
+1657797945689,547,homepage,200,OK,Fashion Days 1-5,text,true,,234259,242,5,5,https://www.fashiondays.ro/,32,0,0
+1657797945689,32,homepage-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,536,119,5,5,https://fashiondays.ro/,32,0,0
+1657797945721,515,homepage-1,200,OK,Fashion Days 1-5,text,true,,233723,123,5,5,https://www.fashiondays.ro/,274,0,0
+1657797946015,237,wishlist,200,OK,Fashion Days 1-4,text,true,,156533,322,5,5,https://www.fashiondays.ro/wishlist,80,0,0
+1657797946015,80,wishlist-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,544,127,5,5,https://fashiondays.ro/wishlist,80,0,0
+1657797946095,157,wishlist-1,200,OK,Fashion Days 1-4,text,true,,155989,195,5,5,https://www.fashiondays.ro/wishlist,85,0,0
+1657797945726,544,femei-incaltaminte-cizme,200,OK,Fashion Days 1-6,text,true,,702175,360,5,5,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,160,0,0
+1657797945726,160,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,563,146,5,5,https://fashiondays.ro/g/femei-/incaltaminte-cizme,160,0,0
+1657797945886,384,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-6,text,true,,701612,214,5,5,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,78,0,0
+1657797946144,223,cizme de piele,200,OK,Fashion Days 1-3,text,true,,267581,506,5,5,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,91,0,0
+1657797946144,91,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-3,text,true,,636,219,5,5,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,91,0,0
+1657797946235,132,cizme de piele-1,200,OK,Fashion Days 1-3,text,true,,266945,287,5,5,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,46,0,0
+1657797946140,258,wishlist,200,OK,Fashion Days 1-1,text,true,,156541,322,4,4,https://www.fashiondays.ro/wishlist,94,0,0
+1657797946140,94,wishlist-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,543,127,4,4,https://fashiondays.ro/wishlist,94,0,0
+1657797946234,164,wishlist-1,200,OK,Fashion Days 1-1,text,true,,155998,195,4,4,https://www.fashiondays.ro/wishlist,66,0,0
+1657797946270,167,cizme de piele,200,OK,Fashion Days 1-6,text,true,,267591,506,4,4,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,25,0,0
+1657797946270,25,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-6,text,true,,635,219,4,4,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,25,0,0
+1657797946295,142,cizme de piele-1,200,OK,Fashion Days 1-6,text,true,,266956,287,4,4,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,72,0,0
+1657797946237,230,cart,200,OK,Fashion Days 1-5,text,true,,158216,316,3,3,https://www.fashiondays.ro/cart/,23,0,0
+1657797946237,23,cart-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,501,124,3,3,https://fashiondays.ro/cart/,23,0,0
+1657797946261,206,cart-1,200,OK,Fashion Days 1-5,text,true,,157715,192,3,3,https://www.fashiondays.ro/cart/,149,0,0
+1657797946253,335,femei-imbracaminte-camasi,200,OK,Fashion Days 1-4,text,true,,860914,362,3,3,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,13,0,0
+1657797946253,13,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,563,147,3,3,https://fashiondays.ro/g/femei-/imbracaminte-camasi,13,0,0
+1657797946266,322,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-4,text,true,,860351,215,3,3,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,76,0,0
+1657797946467,161,wishlist,200,OK,Fashion Days 1-5,text,true,,156548,322,3,3,https://www.fashiondays.ro/wishlist,34,0,0
+1657797946467,34,wishlist-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,544,127,3,3,https://fashiondays.ro/wishlist,34,0,0
+1657797946501,127,wishlist-1,200,OK,Fashion Days 1-5,text,true,,156004,195,3,3,https://www.fashiondays.ro/wishlist,61,0,0
+1657797946399,441,femei-imbracaminte-camasi,200,OK,Fashion Days 1-1,text,true,,860919,362,3,3,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,51,0,0
+1657797946399,51,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,563,147,3,3,https://fashiondays.ro/g/femei-/imbracaminte-camasi,51,0,0
+1657797946450,390,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-1,text,true,,860356,215,3,3,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,78,0,0
+1657797946589,289,femei-incaltaminte-cizme,200,OK,Fashion Days 1-4,text,true,,702170,360,3,3,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,29,0,0
+1657797946589,29,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,563,146,3,3,https://fashiondays.ro/g/femei-/incaltaminte-cizme,29,0,0
+1657797946618,260,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-4,text,true,,701607,214,3,3,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,24,0,0
+1657797946629,445,femei-imbracaminte-camasi,200,OK,Fashion Days 1-5,text,true,,860890,362,3,3,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,27,0,0
+1657797946629,27,femei-imbracaminte-camasi-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,564,147,3,3,https://fashiondays.ro/g/femei-/imbracaminte-camasi,27,0,0
+1657797946656,418,femei-imbracaminte-camasi-1,200,OK,Fashion Days 1-5,text,true,,860326,215,3,3,https://www.fashiondays.ro/g/femei-/imbracaminte-camasi,84,0,0
+1657797946879,207,cizme de piele,200,OK,Fashion Days 1-4,text,true,,267576,506,3,3,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,45,0,0
+1657797946879,45,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-4,text,true,,635,219,3,3,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,45,0,0
+1657797946924,162,cizme de piele-1,200,OK,Fashion Days 1-4,text,true,,266941,287,3,3,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,57,0,0
+1657797946841,300,femei-incaltaminte-cizme,200,OK,Fashion Days 1-1,text,true,,702175,360,2,2,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,25,0,0
+1657797946841,25,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,563,146,2,2,https://fashiondays.ro/g/femei-/incaltaminte-cizme,25,0,0
+1657797946867,274,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-1,text,true,,701612,214,2,2,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,33,0,0
+1657797947142,149,cizme de piele,200,OK,Fashion Days 1-1,text,true,,267581,506,2,2,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,16,0,0
+1657797947142,16,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-1,text,true,,636,219,2,2,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,16,0,0
+1657797947158,133,cizme de piele-1,200,OK,Fashion Days 1-1,text,true,,266945,287,2,2,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,46,0,0
+1657797947075,271,femei-incaltaminte-cizme,200,OK,Fashion Days 1-5,text,true,,702169,360,1,1,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,42,0,0
+1657797947075,42,femei-incaltaminte-cizme-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,562,146,1,1,https://fashiondays.ro/g/femei-/incaltaminte-cizme,42,0,0
+1657797947117,229,femei-incaltaminte-cizme-1,200,OK,Fashion Days 1-5,text,true,,701607,214,1,1,https://www.fashiondays.ro/g/femei-/incaltaminte-cizme,22,0,0
+1657797947346,114,cizme de piele,200,OK,Fashion Days 1-5,text,true,,267578,506,1,1,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,6,0,0
+1657797947346,6,cizme de piele-0,302,Moved Temporarily,Fashion Days 1-5,text,true,,636,219,1,1,https://fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,6,0,0
+1657797947352,108,cizme de piele-1,200,OK,Fashion Days 1-5,text,true,,266942,287,1,1,https://www.fashiondays.ro/p/cizme-de-piele-inalte-pana-la-genunchi-cu-varf-patrat-tati-femei-circus-by-sam-edelman-p4588731-1/,37,0,0
