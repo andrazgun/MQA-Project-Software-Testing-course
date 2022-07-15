@@ -11,12 +11,12 @@ For the final project at the end of the class course, the e-commerce website htt
 - Test suite and Test Cases
   - Api testing with Postman
   - Performance testing with Jmeter
-  Page speed:
+  - Page speed:
     https://www.webpagetest.org/
     https://pagespeed.web.dev/
-  Ping check:
+  - Ping check:
     https://check-host.net/
-   Accessibility:
+  - Accessibility:
     https://achecker.achecks.ca/checker/index.php
     https://wave.webaim.org/
 - Result - Screenshots
