@@ -9,8 +9,16 @@ For the final project at the end of the class course, the e-commerce website htt
 - Presentation
 - Mind map
 - Test suite and Test Cases
-- Screenshots - Non functional tests
+  - Api testing with Postman
+  - Performance testing with Jmeter
+  Page speed:
+    https://www.webpagetest.org/
+    https://pagespeed.web.dev/
+  Ping check:
+    https://check-host.net/
+   Accessibility:
+    https://achecker.achecks.ca/checker/index.php
+    https://wave.webaim.org/
+- Result - Screenshots
 - Bugs
 - Test Report
-- API testing with Postman
-- Performance testing with Jmeter
