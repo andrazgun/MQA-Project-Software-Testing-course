@@ -12,4 +12,5 @@ For the final project at the end of the class course, the e-commerce website htt
 - Screenshots - Non functional tests
 - Bugs
 - Test Report
-- Jmeter Test Report
+- API testing with Postman
+- Performance testing with Jmeter
